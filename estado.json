@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1946-a27f",
-  "sha256": "d7b94958b1bbfd1f125bdc5197b5028669083cad4ef19919484afdd08dd036bc",
-  "nota": "Aprobaciones: el campo de PRECIO (decimal) ya no se valida como bolsas enteras (NaN a NaN); acepta decimales",
-  "fecha": "2026-11-06T01:46:58.433Z",
+  "paquete": "p-261108-2120-d4c2",
+  "sha256": "d7ce1cc671be6081dcbb22418d76003a2e1963b7eb3e4882788dd9346bc697fe",
+  "nota": "Canal nuevo de despliegue (mikey-300). Solo agrega data/canal-deploy.txt; no toca nada del sistema.",
+  "fecha": "2026-11-09T03:20:36.184Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
