@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261108-2120-d4c2",
-  "sha256": "d7ce1cc671be6081dcbb22418d76003a2e1963b7eb3e4882788dd9346bc697fe",
-  "nota": "Canal nuevo de despliegue (mikey-300). Solo agrega data/canal-deploy.txt; no toca nada del sistema.",
-  "fecha": "2026-11-09T03:20:36.184Z",
+  "paquete": "p-261111-1243-6f89",
+  "sha256": "05f626c414eb9f45faf6ce57494883a2219b4b7a32ccc08f650415012b32cadb",
+  "nota": "seguridad: lectura bbseg-mep1",
+  "fecha": "2026-11-11T18:43:48.893Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
