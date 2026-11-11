@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261111-1251-74b2",
-  "sha256": "5667b43e17f0d6a6efc4880b72dfac12bd497fe0c0f08c4fbf05ed33898c1519",
-  "nota": "seguridad: lectura bbseg-dped2d0,bbseg-dped2d1,bbseg-dped2d2...",
-  "fecha": "2026-11-11T18:51:33.612Z",
+  "paquete": "p-261111-1306-3c60",
+  "sha256": "fe7d7112240ea825dc5223344b32a2c9612ca2485dcdb62806a5a0f50d081771",
+  "nota": "Panel Miguel Esteban, registro manual de tela: cada color lleva sus gramos (antes un solo gramaje para todo el pedido; pedido 720 salio todo de 60 g). Columna Gramos por renglon en pedidos2d.html; miguel-panel.js respeta l.gramaje",
+  "fecha": "2026-11-11T19:06:35.752Z",
   "autor": "alex_",
-  "archivos": 61,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
