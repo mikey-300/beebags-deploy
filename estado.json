@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261111-1316-d180",
-  "sha256": "525d970434b5b73f7a999e92d330afb7027cc9ecd87b36448e5e41cfce932e0a",
-  "nota": "seguridad: lectura bbseg-mep6",
-  "fecha": "2026-11-11T19:16:58.869Z",
+  "paquete": "p-261111-1322-bad0",
+  "sha256": "53d0c98167229f7e0d682467084d34d5408b8c093e27ba9eeddc2c30cfcd420f",
+  "nota": "Panel Miguel Esteban: Corregir gramos o rollos de un pedido de tela ya registrado, en la ficha del pedido (ticket 15, pedido 720). me-registrar que=corregir-tela usa solicitudes.aplicarDirecto (bitacora); candados: lo entregado no cambia de gramos ni baja de lo entregado; precio de regla 60/70 g se ajusta; aviso de correccion a almacen",
+  "fecha": "2026-11-11T19:22:04.966Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
