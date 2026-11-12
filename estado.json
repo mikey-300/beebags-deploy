@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261112-1418-1d60",
-  "sha256": "2e9553129bed51ddb8a9a4385ff4c575170654acc3b0fee2cdee7a47a43fc7b4",
-  "nota": "Pedidos 2D (Miguel Esteban): junto al «Cerrar pedido con lo entregado» de las 13:31, boton «Cancelar el pedido» para los pedidos SIN ninguna salida (ya no se van a enviar): color por color → CANCELADO y cabecera Cancelado, via /api/pedidos2d/solicitudes (Direccion directo, con bitacora). Sobre la pagina servida 14:20. Pedido de Mikey 2026-11-12 14:17",
-  "fecha": "2026-11-12T20:18:43.455Z",
-  "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261112-1435-b8e4",
+  "sha256": "21f42b58eb0ed8c6fdaf5e430eb0cd2c25f337b43eb342ced3e8d26101aa1242",
+  "nota": "Panel Miguel Esteban: cierre manual de pedidos de tela sin salida registrada",
+  "fecha": "2026-11-12T20:35:18.636Z",
+  "autor": "alex_",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
