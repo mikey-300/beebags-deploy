@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261112-1139-c76f",
-  "sha256": "db4c0c201e0a7f8fbcd5f70a226e74e8f57937612f0e2c119af75dd0eb528616",
-  "nota": "Cerebro, panel de Direccion: modulos Gastos de la empresa e Historial de compras (abren el Tablero de Compras ya en su mundo). compras.html acepta &mundo=gasto|compra|todo en la liga. Pedido de Mikey 12 nov",
-  "fecha": "2026-11-12T17:39:04.001Z",
+  "paquete": "p-261112-1217-55de",
+  "sha256": "232729b3aded614b50a781800f394f56da57bc0fb9dc7fb9f01f5182f1e7bbad",
+  "nota": "Compras, Tablero, paso 2 del catalogo unico: amarrar conceptos de factura a productos del catalogo. Apartado Conceptos sin producto (candidatos, buscador de productos activos, alta de producto nuevo); rutas historial/sueltos y historial/amarrar; amarres en data/compras-historial-amarres.json (RFC + concepto -> producto, vale para facturas futuras). Arranca con 6 amarres inequivocos (polipropileno homopolimero y adhesivo). Pedido de Mikey 12 nov",
+  "fecha": "2026-11-12T18:17:33.086Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
