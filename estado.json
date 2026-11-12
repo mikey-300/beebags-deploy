@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261111-1817-2171",
-  "sha256": "432ae9293e30e39b6bfa5b2c91fdad4b2c3e4434fc425c48cf0c054cccb13f43",
-  "nota": "Compras: la clasificacion de Gina entra al Tablero. Historial ene-8 nov 2026 (8,630 renglones, 108.9 M) con su categoria por renglon; lo que no coincide con lo que tenia el sistema queda por revisar; apartado Por revisar en el Tablero (elige Gina / Sistema / otra) con rutas historial/revisar y historial/clasificar; correcciones en data/compras-historial-cambios.json; regla de Gina para clasificar OCs. No toca Airtable ni almacen",
-  "fecha": "2026-11-12T00:17:54.279Z",
+  "paquete": "p-261112-1136-14cd",
+  "sha256": "b121312af013f08c0a5ce390248d72f040aaf2b4f8807ed3fb16d531455948af",
+  "nota": "Compras, Tablero: el historial se parte en dos mundos. Compras de Artemia (lo que pasa por Compras) y Gastos de la empresa (luz, IMSS, renta, fletes, bancos: no pasan por Compras). Tres botones arriba del Tablero; filtro mundo en resumen/registro/revisar; lista de categorias de gasto en data/compras-mundos.json. Pedido de Mikey 12 nov",
+  "fecha": "2026-11-12T17:36:08.121Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
