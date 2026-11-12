@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261112-1331-6117",
-  "sha256": "c1912bf24d27d798781b052c6dcfc857bb111c1f7b1a83c0ef139650ef4dbeb2",
-  "nota": "Panel Miguel Esteban: cerrar pedido de tela con lo entregado",
-  "fecha": "2026-11-12T19:31:21.663Z",
-  "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261112-1406-b34c",
+  "sha256": "348a9e620266dbeeb5aeefd3ab3211897b7e6443094398ec3ed3a3ca5afb7ba7",
+  "nota": "Pedidos 2D (Miguel Esteban): boton «Cerrar con lo entregado» junto a «Corregir gramos o rollos»: lo aplica la persona pedido por pedido con confirmacion; lineas con algo entregado bajan la cantidad a lo entregado, sin nada se cancelan; el pedido pasa a Entregado/Cancelado. Via /api/pedidos2d/solicitudes (Direccion directo). Parchado sobre la pagina servida hoy. Pedido de Mikey 2026-11-12",
+  "fecha": "2026-11-12T20:06:08.252Z",
+  "autor": "alex",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
