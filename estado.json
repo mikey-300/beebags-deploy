@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261112-1136-14cd",
-  "sha256": "b121312af013f08c0a5ce390248d72f040aaf2b4f8807ed3fb16d531455948af",
-  "nota": "Compras, Tablero: el historial se parte en dos mundos. Compras de Artemia (lo que pasa por Compras) y Gastos de la empresa (luz, IMSS, renta, fletes, bancos: no pasan por Compras). Tres botones arriba del Tablero; filtro mundo en resumen/registro/revisar; lista de categorias de gasto en data/compras-mundos.json. Pedido de Mikey 12 nov",
-  "fecha": "2026-11-12T17:36:08.121Z",
+  "paquete": "p-261112-1139-c76f",
+  "sha256": "db4c0c201e0a7f8fbcd5f70a226e74e8f57937612f0e2c119af75dd0eb528616",
+  "nota": "Cerebro, panel de Direccion: modulos Gastos de la empresa e Historial de compras (abren el Tablero de Compras ya en su mundo). compras.html acepta &mundo=gasto|compra|todo en la liga. Pedido de Mikey 12 nov",
+  "fecha": "2026-11-12T17:39:04.001Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
