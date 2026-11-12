@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261111-1812-4765",
-  "sha256": "bff4fa3bee71de539946807892c7261a5801827769214d45e4b323f739b6b8f2",
-  "nota": "seguridad: lectura bbseg-dchist0,bbseg-dchist1",
-  "fecha": "2026-11-12T00:12:31.646Z",
+  "paquete": "p-261111-1817-2171",
+  "sha256": "432ae9293e30e39b6bfa5b2c91fdad4b2c3e4434fc425c48cf0c054cccb13f43",
+  "nota": "Compras: la clasificacion de Gina entra al Tablero. Historial ene-8 nov 2026 (8,630 renglones, 108.9 M) con su categoria por renglon; lo que no coincide con lo que tenia el sistema queda por revisar; apartado Por revisar en el Tablero (elige Gina / Sistema / otra) con rutas historial/revisar y historial/clasificar; correcciones en data/compras-historial-cambios.json; regla de Gina para clasificar OCs. No toca Airtable ni almacen",
+  "fecha": "2026-11-12T00:17:54.279Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
