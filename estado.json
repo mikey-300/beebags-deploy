@@ -1,10 +1,9 @@
 {
   "paquete": "p-261112-1406-b34c",
   "sha256": "348a9e620266dbeeb5aeefd3ab3211897b7e6443094398ec3ed3a3ca5afb7ba7",
-  "nota": "Pedidos 2D (Miguel Esteban): boton «Cerrar con lo entregado» junto a «Corregir gramos o rollos»: lo aplica la persona pedido por pedido con confirmacion; lineas con algo entregado bajan la cantidad a lo entregado, sin nada se cancelan; el pedido pasa a Entregado/Cancelado. Via /api/pedidos2d/solicitudes (Direccion directo). Parchado sobre la pagina servida hoy. Pedido de Mikey 2026-11-12",
-  "fecha": "2026-11-12T20:06:08.252Z",
+  "nota": "regreso a p-261112-1406-b34c (venía de p-261112-1406-b34c)",
+  "fecha": "2026-11-12T20:07:45.627Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
