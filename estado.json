@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261112-1406-b34c",
-  "sha256": "348a9e620266dbeeb5aeefd3ab3211897b7e6443094398ec3ed3a3ca5afb7ba7",
-  "nota": "regreso a p-261112-1406-b34c (venía de p-261112-1406-b34c)",
-  "fecha": "2026-11-12T20:07:45.627Z",
+  "paquete": "p-261112-1331-6117",
+  "sha256": "c1912bf24d27d798781b052c6dcfc857bb111c1f7b1a83c0ef139650ef4dbeb2",
+  "nota": "regreso a p-261112-1331-6117 (venía de p-261112-1406-b34c)",
+  "fecha": "2026-11-12T20:14:08.379Z",
   "autor": "alex",
   "reinicio": true,
   "pausado": false
