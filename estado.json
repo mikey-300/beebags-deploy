@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261112-1615-f119",
-  "sha256": "36502303509fe9f12783b2dc640c1696c74f7875a129222a93c69af097f4523d",
-  "nota": "Panel Miguel Esteban: cerrar sin salida = cancelar el pedido (no entregado)",
-  "fecha": "2026-11-12T22:15:01.870Z",
+  "paquete": "p-261113-0004-b306",
+  "sha256": "3e66a815fd7422c8fe5829fd9349a7e6ad4d8d42af47198d2aaff65c83981e86",
+  "nota": "seguridad: lectura bbseg-supa1",
+  "fecha": "2026-11-13T06:04:47.664Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
