@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261113-1909-6cab",
-  "sha256": "e1b755cd0a9234f365458a4e1963d27e284d0bc605ad8e418fdbd9e4be03f3bf",
-  "nota": "Entrada de almacen: buscar tambien por pedido o cliente cuando no se sabe la OP (bolsa)",
-  "fecha": "2026-11-14T01:09:01.357Z",
+  "paquete": "p-261113-2000-fe59",
+  "sha256": "be4ce5957575c8a0b1554758874ac278a93fc254cebef2459032a4d5f6714477",
+  "nota": "seguridad: lectura bbseg-sal1",
+  "fecha": "2026-11-14T02:00:08.568Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
