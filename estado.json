@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261113-2043-d38c",
-  "sha256": "f92e06483eda944ce62f2413434b53651859dbb40c9f9272cb3d0f397288e071",
-  "nota": "seguridad: lectura bbseg-dpedidosjs0,bbseg-dpedidosjs1,bbseg-dpedidosjs2...",
-  "fecha": "2026-11-14T02:43:26.369Z",
+  "paquete": "p-261113-2047-17e6",
+  "sha256": "713ff66c76b7f30a7513df14dc661729371d473b599d4e5b9734b902cc1ff62b",
+  "nota": "Historial de salidas: la ventana de la salida ya no queda tapada; salidas despues de las 6 pm ya salen en su dia",
+  "fecha": "2026-11-14T02:47:41.988Z",
   "autor": "alex_",
-  "archivos": 7,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
