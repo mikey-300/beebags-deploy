@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261114-1139-2ca0",
-  "sha256": "8dc5452e330d73d881365f55d4767f66320b1e79b5fef3716d0f63fb7bade269",
-  "nota": "Armar viaje: boton de verdad para hacer otra salida cuando la anterior ya se registro",
-  "fecha": "2026-11-14T17:39:40.278Z",
+  "paquete": "p-261116-1126-93f7",
+  "sha256": "533fff8409931bb19491f7eedb4844c62884e97979aabd35469181f608a68f27",
+  "nota": "Almacen: desde el Historial de salidas todas las ventanas quedan a la vista (incluye Algo salio mal con esta salida)",
+  "fecha": "2026-11-16T17:26:35.107Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
