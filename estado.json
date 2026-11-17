@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261117-1337-9872",
-  "sha256": "a93b2c2370446f108d04e8fdc5449af148aa5e9e7c3573457dcc1858cff7de8d",
-  "nota": "Cotizaciones web: el almacen ve el producto a checar (medida, color, gramaje) y dice si hay rollos; regresa la cotizacion automatica (_calcular); empresa opcional",
-  "fecha": "2026-11-17T19:37:20.120Z",
+  "paquete": "p-261117-1339-0531",
+  "sha256": "429c77761051147375db6be155c2b0e5e42eb8cd363b537bf6d91cd82e3284c9",
+  "nota": "seguridad: lectura bbseg-chk2",
+  "fecha": "2026-11-17T19:39:46.216Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
