@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261117-1315-b672",
-  "sha256": "b7cb6b1b09e755b27908a6a6729b5b16c887deab025de7453c599b07ce7297ac",
-  "nota": "RH #3 (17 nov 2026): la tira «El reloj, semana por semana» completa la asistencia de TODAS las semanas: el tablero solo manda las últimas 12 pero el reloj tiene las 45; para las demás la página pide /asistencia por semana (3 a la vez, con caché de sesión) y rellena la columna en su lugar. Solo web/, sin reinicio.",
-  "fecha": "2026-11-17T19:15:00.559Z",
-  "autor": "alex",
+  "paquete": "p-261117-1318-1848",
+  "sha256": "c1d877f953d4d9d9f60525d0e23539258227a0db97058295308450506456e7ea",
+  "nota": "seguridad: lectura bbseg-chk1",
+  "fecha": "2026-11-17T19:18:55.254Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
