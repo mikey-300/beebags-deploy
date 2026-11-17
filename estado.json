@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261117-1053-cdb8",
-  "sha256": "9fe76ac41689c63fc41ac139876ec3562f74408578a516c207f4b5a76ab432b0",
-  "nota": "seguridad: lectura bbseg-dbajasjs0,bbseg-dbajasjs1",
-  "fecha": "2026-11-17T16:53:30.896Z",
+  "paquete": "p-261117-1056-e4f1",
+  "sha256": "5f3df68e6dfbc060353476c05facb5c1eb5b41ee1f5f03fb7b3f55833c9d9dad",
+  "nota": "Baja de acceso: Omar Almacen ya no trabaja en Bee Bags",
+  "fecha": "2026-11-17T16:56:08.970Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
