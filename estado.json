@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261117-1057-b997",
-  "sha256": "9a6702e5112d437b6017cf9ffa380163bbf179841e8e60676a28b715ae36b6f1",
-  "nota": "seguridad: lectura bbseg-baja2",
-  "fecha": "2026-11-17T16:57:22.644Z",
-  "autor": "alex_",
+  "paquete": "p-261117-1101-67e4",
+  "sha256": "2fb7004bfe4b0af8a74eba40bc5fe40e8d9d31fe24939b3714de1b9e8ae624b0",
+  "nota": "Inicio del Cerebro (cerebro.html): el bloque Aplicaciones (21 apps) pasa hasta arriba, antes de Cotizaciones web y Aprobaciones. Solo se mueve el bloque; nada mas cambia. Sobre la pagina servida hoy. Pedido de Mikey 2026-11-17 10:59",
+  "fecha": "2026-11-17T17:01:33.227Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
