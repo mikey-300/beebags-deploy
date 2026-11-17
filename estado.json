@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1433-2ffc",
-  "sha256": "9fed614353ef893884db9d54448ac62107b1dc9c2a7ab9f09d825df6118a34e9",
-  "nota": "Almacen: Depurar un rack ahora vive dentro de Registrar (4a opcion), con sus pasos, tarjetas y panel asi queda",
-  "fecha": "2026-11-17T20:33:11.488Z",
+  "paquete": "p-261117-1437-b271",
+  "sha256": "b2edec6604a1d6d437e32d518686436d489f153240844ebe43dd8a21307100f4",
+  "nota": "seguridad: lectura bbseg-chk8",
+  "fecha": "2026-11-17T20:37:56.059Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
