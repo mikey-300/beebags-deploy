@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1311-e782",
-  "sha256": "e63ee1f1571944de73f95506769cb0a1cc7c23e607e781798ea15c8682555dd7",
-  "nota": "RH #2 (17 nov 2026): la tira «El reloj, semana por semana» queda en orden 1→46: el API manda las fechas de las pagadas como «Tue Dec 30» y la página las normaliza a ISO desde año+semana; así también casan con el reloj y el estado de pago. Solo web/, sin reinicio.",
-  "fecha": "2026-11-17T19:11:30.366Z",
+  "paquete": "p-261117-1315-b672",
+  "sha256": "b7cb6b1b09e755b27908a6a6729b5b16c887deab025de7453c599b07ce7297ac",
+  "nota": "RH #3 (17 nov 2026): la tira «El reloj, semana por semana» completa la asistencia de TODAS las semanas: el tablero solo manda las últimas 12 pero el reloj tiene las 45; para las demás la página pide /asistencia por semana (3 a la vez, con caché de sesión) y rellena la columna en su lugar. Solo web/, sin reinicio.",
+  "fecha": "2026-11-17T19:15:00.559Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
