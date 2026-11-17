@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261117-1422-d0db",
-  "sha256": "9505bf5569b7b02b4382500eb82bcb2c9bfb75ed442dad2cef3ca65577ac5795",
-  "nota": "Server #24 (REINICIO, 17 nov 2026): cotización automática cercana al cotizador: coberturas por tinta desde el logo (src/cobertura-logo.js nuevo), por tamaño o repartidas al 100 %, voltear=false; reloj /estado LIMIT 80; fechas ISO en nómina pagada.",
-  "fecha": "2026-11-17T20:22:19.798Z",
-  "autor": "alex",
-  "archivos": 5,
-  "reinicio": true,
+  "paquete": "p-261117-1431-32f4",
+  "sha256": "e627738a84e6b007809414263e4fcb7251f70aab9f9daa95f3ac6a60a0476165",
+  "nota": "seguridad: lectura bbseg-chk8",
+  "fecha": "2026-11-17T20:31:26.685Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
