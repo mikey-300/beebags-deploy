@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1103-1c93",
-  "sha256": "f6360c28d6ca2e7b6cc285ca2870b372a00d9a7050c2c33c69bda4fd2f879013",
-  "nota": "Inicio del Cerebro: el bloque Aplicaciones pasa hasta arriba. Mismo contenido que p-261117-1101 pero al archivo que SI se sirve (web/cerebro2.html; /cerebro.html es alias en index.js). Pedido de Mikey 2026-11-17",
-  "fecha": "2026-11-17T17:03:56.733Z",
+  "paquete": "p-261117-1107-99a5",
+  "sha256": "bbc00d8af7788d7af6504acc999bcb9a5f2219cb8438b96a04a893b9b40bb2c4",
+  "nota": "Inicio del Cerebro: tira compacta con las 21 aplicaciones en una sola linea dentro de la barra fija de arriba (siempre visible al abrir y al desplazarse); la cuadricula grande de Aplicaciones regresa a su lugar. Pedido de Mikey 2026-11-17 11:03",
+  "fecha": "2026-11-17T17:07:45.869Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
