@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261117-1417-1cdd",
-  "sha256": "690bda8d1ba6b6e71f9bf365d2cfaacdb3e8fa1169dafd050628aaeb5c75b3b5",
-  "nota": "seguridad: lectura bbseg-chk7",
-  "fecha": "2026-11-17T20:17:49.995Z",
+  "paquete": "p-261117-1419-a75e",
+  "sha256": "7d812a2220a3aa7d5c3af4f5cbdb35e11eb29760458b4d2d6800d359fbf3e731",
+  "nota": "Almacen: Contar este rack (inventario fisico rack por rack). Un conteo = un aviso a Direccion; al aprobar salen los ajustes con su vale",
+  "fecha": "2026-11-17T20:19:33.890Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
