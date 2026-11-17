@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261116-1126-93f7",
-  "sha256": "533fff8409931bb19491f7eedb4844c62884e97979aabd35469181f608a68f27",
-  "nota": "Almacen: desde el Historial de salidas todas las ventanas quedan a la vista (incluye Algo salio mal con esta salida)",
-  "fecha": "2026-11-16T17:26:35.107Z",
+  "paquete": "p-261117-1052-737f",
+  "sha256": "3d7dc190a6888310f3e64d94e0a20de538eefc0e1fc012858be76633f6f22f8c",
+  "nota": "seguridad: lectura bbseg-baja1",
+  "fecha": "2026-11-17T16:52:06.909Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
