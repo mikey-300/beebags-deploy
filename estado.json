@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261117-1419-a75e",
-  "sha256": "7d812a2220a3aa7d5c3af4f5cbdb35e11eb29760458b4d2d6800d359fbf3e731",
-  "nota": "Almacen: Contar este rack (inventario fisico rack por rack). Un conteo = un aviso a Direccion; al aprobar salen los ajustes con su vale",
-  "fecha": "2026-11-17T20:19:33.890Z",
-  "autor": "alex_",
-  "archivos": 2,
+  "paquete": "p-261117-1422-d0db",
+  "sha256": "9505bf5569b7b02b4382500eb82bcb2c9bfb75ed442dad2cef3ca65577ac5795",
+  "nota": "Server #24 (REINICIO, 17 nov 2026): cotización automática cercana al cotizador: coberturas por tinta desde el logo (src/cobertura-logo.js nuevo), por tamaño o repartidas al 100 %, voltear=false; reloj /estado LIMIT 80; fechas ISO en nómina pagada.",
+  "fecha": "2026-11-17T20:22:19.798Z",
+  "autor": "alex",
+  "archivos": 5,
   "reinicio": true,
   "pausado": false
 }
