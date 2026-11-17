@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1353-47c0",
-  "sha256": "603f8466cf60e46a654bfdc0d1a0cdc334210ead8cfe1119250c655f0913d360",
-  "nota": "seguridad: lectura bbseg-chk6",
-  "fecha": "2026-11-17T19:53:26.408Z",
+  "paquete": "p-261117-1355-052c",
+  "sha256": "4b9136545ff7ad5005df0e7cde1b8e8a47740d67b1931036684018abe5533566",
+  "nota": "Cotizaciones web: campo Tu utilidad % en la cotizacion automatica (mueve el precio y viceversa)",
+  "fecha": "2026-11-17T19:55:28.346Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
