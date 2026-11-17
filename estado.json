@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1118-7c1a",
-  "sha256": "57d7941d8f53df7a4451723f8f656edbd55b1fcface3590ca48d08e80e410ac2",
-  "nota": "RH #1 (17 nov 2026): la portada «El reloj, semana por semana» mezcla el histórico de nóminas pagadas (como Asistencia y Nómina): se ven las 45 semanas del año aunque no tengan reloj; la tira arranca en la semana más reciente. Solo web/, sin reinicio.",
-  "fecha": "2026-11-17T17:18:47.089Z",
+  "paquete": "p-261117-1311-e782",
+  "sha256": "e63ee1f1571944de73f95506769cb0a1cc7c23e607e781798ea15c8682555dd7",
+  "nota": "RH #2 (17 nov 2026): la tira «El reloj, semana por semana» queda en orden 1→46: el API manda las fechas de las pagadas como «Tue Dec 30» y la página las normaliza a ISO desde año+semana; así también casan con el reloj y el estado de pago. Solo web/, sin reinicio.",
+  "fecha": "2026-11-17T19:11:30.366Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
