@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1259-77b2",
-  "sha256": "a4c421531ea629b10d4b0a075093778e3b367f93ef1800f6ed4af0cda7f78979",
-  "nota": "Cotizador: pestaña Sabanas hospitalarias (motor del Cerebro, calcado del Excel) · issue #4",
-  "fecha": "2026-11-18T18:59:34.277Z",
-  "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "paquete": "p-261118-1259-d3c2",
+  "sha256": "6458491e83f13fac4f4de5dd92bc17bc3719910331f952b5f2e7ea53829cc5d1",
+  "nota": "seguridad: lectura bbseg-rp1",
+  "fecha": "2026-11-18T18:59:44.644Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
