@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1603-4d8a",
-  "sha256": "fcbc850bd95791d7d13da49ded001e5971822f81d49ad54944bc5dab5702ca3b",
-  "nota": "Ticket 132: apartar de verdad producto para un pedido o cliente desde el rack (src/apartados.js nuevo, se monta desde salidas-historial; bloque Apartado de verdad en el almacen)",
-  "fecha": "2026-11-18T22:03:18.319Z",
+  "paquete": "p-261118-1606-1415",
+  "sha256": "6876186fc864eee800b021b428994fe61c2719407618677ffd8850403d93ff55",
+  "nota": "seguridad: lectura bbseg-ap3",
+  "fecha": "2026-11-18T22:06:29.977Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
