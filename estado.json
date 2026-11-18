@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1516-8158",
-  "sha256": "93475367005d020618829d537d5752666854865b03eee50d94152194f9ad70df",
-  "nota": "seguridad: lectura bbseg-cal1",
-  "fecha": "2026-11-18T21:16:04.001Z",
+  "paquete": "p-261118-1517-50c2",
+  "sha256": "d9e6c713edd86652fd82b430a7a6c8eeb29b2720c5bd58b44a1076d8438a5da9",
+  "nota": "Rack a pantalla completa: botones del producto sin encimarse, apartados en lista completa (sin pastillas ni +1 pedidos) y botones Depurar / Meter otro producto grandes",
+  "fecha": "2026-11-18T21:17:13.154Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
