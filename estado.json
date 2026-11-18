@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1251-5c0b",
-  "sha256": "cc0c60a85c96e3605801175d418eb40b9ec9a0a0e697a3c7787b5184c269cc38",
-  "nota": "Pedidos: KPIs v2 - filtro por vendedor y cliente que mueve todos los numeros y graficas, desglose en cada tarjeta y segunda fila con los numeros escondidos",
-  "fecha": "2026-11-18T18:51:13.219Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261118-1259-77b2",
+  "sha256": "a4c421531ea629b10d4b0a075093778e3b367f93ef1800f6ed4af0cda7f78979",
+  "nota": "Cotizador: pestaña Sabanas hospitalarias (motor del Cerebro, calcado del Excel) · issue #4",
+  "fecha": "2026-11-18T18:59:34.277Z",
+  "autor": "alex",
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
