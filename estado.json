@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1057-a810",
-  "sha256": "8530643e122ee500a9c2bc59b50b26751f17aaa716456d048ef76bde94fad1bf",
-  "nota": "seguridad: lectura bbseg-dsalhist0,bbseg-dsalhist1",
-  "fecha": "2026-11-18T16:57:33.317Z",
+  "paquete": "p-261118-1059-56c2",
+  "sha256": "b93aab11fc1ca2aabb4ff76107936350c3a403ad5d99a7245c37f8656e7ca497",
+  "nota": "Historial de salidas: ya no entrega una lista vieja (faltaban las salidas del dia); si tiene mas de 3 min espera la nueva",
+  "fecha": "2026-11-18T16:59:45.651Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
