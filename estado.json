@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1308-886c",
-  "sha256": "4aeb710b5fce84c31e85dc2592649554425562aa6d7a2211524452b5512a5559",
-  "nota": "seguridad: lectura bbseg-rp1",
-  "fecha": "2026-11-18T19:08:02.299Z",
+  "paquete": "p-261118-1309-4ce4",
+  "sha256": "f4cbefb97ba2da96f394500aebec372c72104e5eb0aca60763bb39c2874fe6e5",
+  "nota": "Pedidos KPIs v3: los renglones del selector ya no salen recortados",
+  "fecha": "2026-11-18T19:09:12.271Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
