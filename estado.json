@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1122-0640",
-  "sha256": "3ce4b30afde02bcbd147dc7888b17e72ecb70dbc29adfcb50c4b98833ca4d27d",
-  "nota": "seguridad: lectura bbseg-chk8",
-  "fecha": "2026-11-18T17:22:29.430Z",
+  "paquete": "p-261118-1123-1897",
+  "sha256": "72db79e44e0bb16530e7aeb87b7dfab6d72c23151272c280007c6f76158b13dc",
+  "nota": "Historial de salidas: cada producto con dibujo a color, descripcion, color, cantidad y vale; usa todo el ancho",
+  "fecha": "2026-11-18T17:23:18.152Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
