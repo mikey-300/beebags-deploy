@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1527-6eac",
-  "sha256": "acd8e75778c78ea6693d6d280c4ca4db102b8d552579b0e41d3906af2ad09c43",
-  "nota": "Rack: picar un movimiento lleva al Historial con ese folio y el registro abierto",
-  "fecha": "2026-11-18T21:27:19.233Z",
+  "paquete": "p-261118-1530-f25a",
+  "sha256": "92c729c66e31af7d536d5580bc3a3dbe16c201b8d0d68cb790857db6eeb69b7a",
+  "nota": "seguridad: lectura bbseg-caida1",
+  "fecha": "2026-11-18T21:30:29.814Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
