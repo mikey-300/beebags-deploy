@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1503-65d8",
-  "sha256": "67aa36ea02d70cf866d6543f358d2a319024a05d080997337e9fa98dc1dcfd47",
-  "nota": "Ticket 125: en el rack a pantalla completa el producto va a todo el ancho con su detalle a la vista y los movimientos son tarjetas con icono, dibujo a color, cantidad, folio, fecha y quien",
-  "fecha": "2026-11-18T21:03:18.041Z",
+  "paquete": "p-261118-1516-8158",
+  "sha256": "93475367005d020618829d537d5752666854865b03eee50d94152194f9ad70df",
+  "nota": "seguridad: lectura bbseg-cal1",
+  "fecha": "2026-11-18T21:16:04.001Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
