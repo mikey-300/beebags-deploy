@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1617-eba5",
-  "sha256": "1a17391cc811900b098ab80d69ef41794c62af88bd7af880d15e1b55e6872ea9",
-  "nota": "seguridad: lectura bbseg-ap3",
-  "fecha": "2026-11-18T22:17:07.716Z",
+  "paquete": "p-261118-1619-c124",
+  "sha256": "231360bcc5372da40c82bdc55940d3fbc5a16324b622713b843db485ef158834",
+  "nota": "Apartados: el boton Liberar ahora se llama Desapartar",
+  "fecha": "2026-11-18T22:19:18.623Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
