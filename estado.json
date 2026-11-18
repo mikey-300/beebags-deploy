@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1259-d3c2",
-  "sha256": "6458491e83f13fac4f4de5dd92bc17bc3719910331f952b5f2e7ea53829cc5d1",
-  "nota": "seguridad: lectura bbseg-rp1",
-  "fecha": "2026-11-18T18:59:44.644Z",
+  "paquete": "p-261118-1303-c775",
+  "sha256": "2977634def8fab0b7f56a6c03661c22ce50eb1d5014391136e090d7e5ee35fa8",
+  "nota": "Pedidos KPIs v3: filtros como selectores desplegables con detalle (vendedor y cliente) y seccion Mas detalle con 6 graficas y tablas",
+  "fecha": "2026-11-18T19:03:19.585Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
