@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261117-1439-8af4",
-  "sha256": "dabddb8eb0ec1b8ea76cf9513c7a9d18b2ddb03e66aa255619813054eb1bcb8e",
-  "nota": "Almacen: pestanas, logo y ficha del rack con iconos de linea (sin emojis)",
-  "fecha": "2026-11-17T20:39:18.159Z",
+  "paquete": "p-261118-1020-f8b8",
+  "sha256": "20eb3633c94b9a09c7b457cf8781161e470fdc59bc7ee5c97e3e69996736a8ad",
+  "nota": "seguridad: lectura bbseg-sal1",
+  "fecha": "2026-11-18T16:20:17.731Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
