@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1218-c5c5",
-  "sha256": "9bc1baf166a06f6b27075acea249218bfd2aa97e3ac7fc182feabf0636697605",
-  "nota": "seguridad: lectura bbseg-chk8",
-  "fecha": "2026-11-18T18:18:49.618Z",
+  "paquete": "p-261118-1219-3c2a",
+  "sha256": "7a7dd71c2c47c09080ccf343946222b29b7a1b5ce0cce5ba456c14dcdb62bc6e",
+  "nota": "Almacen: panel Pedidos (primera pestana): pedidos vivos con cuanto falta y cuanto hay en racks, dar entrada/salida y pedir correccion a Direccion",
+  "fecha": "2026-11-18T18:19:17.387Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
