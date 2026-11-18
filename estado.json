@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1421-652b",
-  "sha256": "54151a8fef3df755a0f9b61dab2c476f00dc5c77d1f45c80d9271b7bc26c57fa",
-  "nota": "Seguimiento de cotizaciones web (boton unico, correo con Si/No, pagina de respuesta, rechazadas bajo Cotizadas) + anotado en renglones de tela al aprobar un pedido general entregado",
-  "fecha": "2026-11-18T20:21:13.046Z",
+  "paquete": "p-261118-1423-823f",
+  "sha256": "a91e291318c8f8cce5811d4ab23d4ece2a3fa381c1707116b313fc54b0a29ccf",
+  "nota": "seguridad: lectura bbseg-ent7",
+  "fecha": "2026-11-18T20:23:55.294Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
