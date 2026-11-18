@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1637-de59",
-  "sha256": "e33f81a6a4f9d295e8dfb7a6badf3c7f87c81c9a5f2ee3bfa7dfd218b8068eab",
-  "nota": "seguridad: lectura bbseg-ap3",
-  "fecha": "2026-11-18T22:37:04.991Z",
+  "paquete": "p-261118-1639-bb27",
+  "sha256": "324d57580d2a1be89a4c077469c5a2cc0856278c9ddfbff56e9032d66cbfb898",
+  "nota": "Apartados (tickets 135 y 137): desde el rack solo lo de ese rack, desde Por producto repartido entre racks, pedido y cliente con selector (no se inventan), rollos para pedido de bolsa quedan para produccion",
+  "fecha": "2026-11-18T22:39:16.053Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
