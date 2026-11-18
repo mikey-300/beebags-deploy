@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1653-dec0",
-  "sha256": "b024710f0e7a809ca722fabaf19b2e0969bfec03f34a6fa4c4b69f1d5c9fddbc",
-  "nota": "seguridad: lectura bbseg-ap3",
-  "fecha": "2026-11-18T22:53:05.185Z",
+  "paquete": "p-261118-1655-92b3",
+  "sha256": "6ad77175b3304ebbb4c7821762701065b332bcfaf2144afa4c207677f03f2466",
+  "nota": "Ticket 139: al apartar para un pedido primero se escoge si es de bolsa o de tela, tarjetas con dibujo a color y busqueda por numero, cliente, marca, medida o color",
+  "fecha": "2026-11-18T22:55:15.352Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
