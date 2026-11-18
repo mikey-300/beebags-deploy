@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1539-f513",
-  "sha256": "5a4d0c809526cbfde438f081ea63e4cec058a8cbf55f951fc174d2576d8df637",
-  "nota": "Caida de las 15:26: un 429 de Airtable ya no tumba el servidor (se atrapa en facturas-libro) y facturas-mesa espera y reintenta",
-  "fecha": "2026-11-18T21:39:17.278Z",
+  "paquete": "p-261118-1541-4aaf",
+  "sha256": "4bf112176c0c229d1b994144c994cbf194582e82d2b243bbebdae7018520250f",
+  "nota": "seguridad: lectura bbseg-caida4",
+  "fecha": "2026-11-18T21:41:25.597Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
