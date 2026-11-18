@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1548-8877",
-  "sha256": "8169f7d4a19d7595a3ed5669b02747d6caf96fac26549b180a73d3286e5879e5",
-  "nota": "seguridad: lectura bbseg-cal1",
-  "fecha": "2026-11-18T21:48:18.887Z",
+  "paquete": "p-261118-1549-02f0",
+  "sha256": "349f6e5af59e7baeaf284648d0a19f239266b3921cfc637edc38e4a51d4d7bfd",
+  "nota": "Almacen: rollos guardados como Material En Trasito se dibujan como rollo (ticket 131) y el formulario del rack (meter otro, sacar, meter, mover) con tarjetas numeradas y filtro por tipo como Depurar",
+  "fecha": "2026-11-18T21:49:17.226Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
