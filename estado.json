@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1109-e874",
-  "sha256": "b91481537ff8955d50936942be2d5d101d924b04fa808d9e55e21b4570721f94",
-  "nota": "Correccion de salida: producto equivocado en vales de TELA liga el vale nuevo al renglon del color nuevo (antes fallaba al aprobar)",
-  "fecha": "2026-11-18T17:09:52.177Z",
+  "paquete": "p-261118-1122-0640",
+  "sha256": "3ce4b30afde02bcbd147dc7888b17e72ecb70dbc29adfcb50c4b98833ca4d27d",
+  "nota": "seguridad: lectura bbseg-chk8",
+  "fecha": "2026-11-18T17:22:29.430Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
