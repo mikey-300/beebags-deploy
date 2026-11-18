@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1321-bc81",
-  "sha256": "4d1f22a127fc6ae5e7d793147eeb9349651724186d6b7d65d52636206694b4cf",
-  "nota": "seguridad: lectura bbseg-rp1",
-  "fecha": "2026-11-18T19:21:04.471Z",
+  "paquete": "p-261118-1323-bb1d",
+  "sha256": "c2fee38129c1a85d055a920eb9636a80669aa5e55f2049cdda640e8b0a3a2aef",
+  "nota": "Pedidos KPIs v4 (ticket 114): graficas y tablas plegables con su numero clave, las 4 de siempre con mas detalle, y picar cualquier numero o grafica baja a la lista ya filtrada",
+  "fecha": "2026-11-18T19:23:17.668Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
