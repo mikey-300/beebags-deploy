@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261118-1147-66ec",
-  "sha256": "b90be1e701ce64d757d0856940bffc6a35eb0b84874b34557616f10b4e6c1c47",
-  "nota": "Pedidos: seccion Reportes (por vendedor y por cliente, con filtros) y descarga en PDF, una hoja por vendedor",
-  "fecha": "2026-11-18T17:47:46.630Z",
+  "paquete": "p-261118-1205-1263",
+  "sha256": "b7cf27a4e64a92c3601fb246d6c7c9e21705ec14f2dbedaec192ed62f911bdec",
+  "nota": "seguridad: lectura bbseg-pa1",
+  "fecha": "2026-11-18T18:05:13.928Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
