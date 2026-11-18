@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1647-4ca7",
-  "sha256": "a3e07aeee9c5ef204c68bea8312883df04ebe583d659cb77449b0901829f9d2d",
-  "nota": "Tickets 130 y 138: Pedir correccion del almacen ensena los vales que ya tiene el pedido y pide cuantas, factura, remision, fecha y quien lo llevo",
-  "fecha": "2026-11-18T22:47:12.563Z",
+  "paquete": "p-261118-1653-dec0",
+  "sha256": "b024710f0e7a809ca722fabaf19b2e0969bfec03f34a6fa4c4b69f1d5c9fddbc",
+  "nota": "seguridad: lectura bbseg-ap3",
+  "fecha": "2026-11-18T22:53:05.185Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
