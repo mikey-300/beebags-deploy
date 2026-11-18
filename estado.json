@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261118-1044-0742",
-  "sha256": "411b676e71c94dc9de6e1531b473ea45f17c4cddf74126675561ba2a94094cb1",
-  "nota": "seguridad: lectura bbseg-chk8",
-  "fecha": "2026-11-18T16:44:21.773Z",
+  "paquete": "p-261118-1045-c793",
+  "sha256": "cecd326ddb33e4ce19e7c18ef74deb83925d3cd1ba400410a24c0862c6350d74",
+  "nota": "Almacen: dibujos a color de producto (los del buscador de Registrar) en ficha del rack, mapa y Depurar; color exacto a la vista",
+  "fecha": "2026-11-18T16:45:20.523Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
