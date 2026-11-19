@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1231-1a47",
-  "sha256": "aaa5aa5ba4d67cb4a793c02fc35687a876ec9e4c6cb5af4a4ae10cf344e42aad",
-  "nota": "Costeo tela 4.1: boton Desarrollo del costeo que despliega el paso a paso por color (costo, venta, entrega, mercado) (Mikey 12:30)",
-  "fecha": "2026-11-19T18:31:35.894Z",
+  "paquete": "p-261119-1235-bbc5",
+  "sha256": "43092e6c050892716ec740bf9688e4e7c9703781a2a28f8c041e3ff93064f970",
+  "nota": "Costeo tela bloque 3: fila precio = blanco + diferencia (3/9/22 editables) con boton Ajustar utilidades; Ajustar sola avisa cuando la meta queda abajo del costo (Mikey 12:34)",
+  "fecha": "2026-11-19T18:35:56.604Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
