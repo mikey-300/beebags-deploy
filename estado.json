@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0801-f09a",
-  "sha256": "16b6c520a6f59e9c6b55d7422449725485aa8d81012ebaccc8346060965ec279",
-  "nota": "RH #4 (19 nov 2026, Mikey): Nómina pagada → clic en un renglón abre el DESGLOSE del pago (horas → precio/hora → salario semanal → vía NOI + bonos asistencia/puntualidad → deducciones → total NOI → efectivo → bonos → total → cómo se pagó) con marca ✓ cuadra / ≠ libro por paso; el ID del reloj va como número de fila; tabla compacta; título ya sin «undefined» en las fechas. Solo web/rh-panel.js, sin reinicio.",
-  "fecha": "2026-11-19T14:01:50.120Z",
+  "paquete": "p-261119-0805-7ef5",
+  "sha256": "3c922d8058f334e8184abfe958713f9daba7cc0173f311cb8646778a5c34296b",
+  "nota": "RH #5 (19 nov 2026): complemento del desglose de nómina pagada: «Salario para NOI» muestra su regla (salario IMSS ÷ 7 × días) y los bonos de asistencia/puntualidad su regla (semana completa y sueldo real > IMSS → mín(10 % del salario NOI, mitad de la diferencia semanal − NOI)), ambos con ✓ cuadra / ≠ libro. Reglas verificadas contra 914 renglones de las semanas 30/40/44/45 sin diferencias. Solo web/rh-panel.js, sin reinicio.",
+  "fecha": "2026-11-19T14:05:19.897Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
