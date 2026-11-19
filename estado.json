@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261119-1242-23ed",
-  "sha256": "742fb7739051aaa49b907cb55f84d976c63cdc8ba8cb5de87aab81b7aa85bf0e",
-  "nota": "Costeo tela 4.2: precio con IVA en tarjetas, imagen y texto; las 4 tarjetas mas chicas (Mikey 12:40)",
-  "fecha": "2026-11-19T18:42:05.973Z",
-  "autor": "alex",
+  "paquete": "p-261119-1247-0358",
+  "sha256": "1ce11d403b9b5b7fc34e7339feda6de6935fd2dfb5c06c706247cc3b90d8c3ab",
+  "nota": "seguridad: lectura bbseg-edi3",
+  "fecha": "2026-11-19T18:47:43.134Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
