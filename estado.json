@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1235-bbc5",
-  "sha256": "43092e6c050892716ec740bf9688e4e7c9703781a2a28f8c041e3ff93064f970",
-  "nota": "Costeo tela bloque 3: fila precio = blanco + diferencia (3/9/22 editables) con boton Ajustar utilidades; Ajustar sola avisa cuando la meta queda abajo del costo (Mikey 12:34)",
-  "fecha": "2026-11-19T18:35:56.604Z",
+  "paquete": "p-261119-1240-81b8",
+  "sha256": "51af9af7e31024634da2f580f98a17eb393ba9f809915b0461d806d5c28c51d5",
+  "nota": "Costeo tela 4.1: tabla pegada a la izquierda, columnas de color junto a la descripcion, solo CSS (Mikey 12:39)",
+  "fecha": "2026-11-19T18:40:00.948Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
