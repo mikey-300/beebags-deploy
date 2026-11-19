@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261119-1120-7f48",
-  "sha256": "f2d66fe7a65c231eb4526d7a943406d254409482e855454aa01ead14a7f5f7e5",
-  "nota": "Costeo tela: regresa la tabla de 4.1 tal cual (la foto 2 se queda); bloque 3 sigue compacto con casillas (Mikey 11:19)",
-  "fecha": "2026-11-19T17:20:09.371Z",
-  "autor": "alex",
+  "paquete": "p-261119-1121-91b0",
+  "sha256": "fece068c51f220be9265db02cd14a70bb07d217e2248f32268bcb4de582125af",
+  "nota": "seguridad: lectura bbseg-vig1",
+  "fecha": "2026-11-19T17:21:42.085Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
