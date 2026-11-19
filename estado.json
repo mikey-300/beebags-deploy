@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0947-edb4",
-  "sha256": "31e80476913ecda3fcd625435b48b9a7af94b0efab454d3dae63f99acee15731",
-  "nota": "Costeo tela 3.1: numeros pegados a la derecha en columnas angostas; secciones 1-2 a la izquierda y 3-4 (cuanto gano, mercado) al lado derecho · issue #5",
-  "fecha": "2026-11-19T15:47:58.667Z",
+  "paquete": "p-261119-1013-dfe3",
+  "sha256": "1107e3ee02c2408c11ffb6009626834b64efc674d6f44b47e02e2a4d6e7a7dfa",
+  "nota": "Costeo tela 4.2: las 4 tarjetas de la lista en una sola linea a lo ancho (default 4 por fila) · issue #5",
+  "fecha": "2026-11-19T16:13:37.273Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
