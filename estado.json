@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0915-5e5e",
-  "sha256": "ef2e503bfdfa4edecbc12b485882cdc7fb613893d3af482cdb5af64fab3c3f26",
-  "nota": "Cotizador › Costeo tela: lista de precios + rollo por metro + lista 1.60 dentro del bloque 4 (4.2), cierre pasa a 4.3, fuera historial y seccion repetida; bloques 1-3 compactos · issue #5",
-  "fecha": "2026-11-19T15:15:56.933Z",
+  "paquete": "p-261119-0918-db15",
+  "sha256": "9e247710e5d0f9c0ba14b2a1191059990c6a261e8b230b3c5981c8cb560aacca",
+  "nota": "Cotizador › Costeo tela: disposicion horizontal a lo ancho (bloques 1-3 de ancho completo con tarjetas en fila; 2 con A-E en 5 columnas; 3 tarjetas+tabla lado a lado; 4.2 imagen y tarjetas lado a lado) · issue #5",
+  "fecha": "2026-11-19T15:18:21.768Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
