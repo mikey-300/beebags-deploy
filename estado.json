@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261119-1013-dfe3",
-  "sha256": "1107e3ee02c2408c11ffb6009626834b64efc674d6f44b47e02e2a4d6e7a7dfa",
-  "nota": "Costeo tela 4.2: las 4 tarjetas de la lista en una sola linea a lo ancho (default 4 por fila) · issue #5",
-  "fecha": "2026-11-19T16:13:37.273Z",
-  "autor": "alex",
+  "paquete": "p-261119-1025-c09b",
+  "sha256": "3ae2ecb2154b096c1e168a13f1ef2c5fe6e77687cc833c4d02de4ad663015fbe",
+  "nota": "seguridad: lectura bbseg-ajpp1",
+  "fecha": "2026-11-19T16:25:49.436Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
