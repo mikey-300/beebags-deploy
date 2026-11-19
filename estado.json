@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0820-08b2",
-  "sha256": "b4e6dc25f1cd51788a191fde2305bf35a6140b5b69001f9dd422d45b72e34809",
-  "nota": "Cotizador › Costeo tela: bloque 2 por periodo (mes/promedio/ultimos 3) + energia aparte + lista de precios igualable al costeo · issue #5",
-  "fecha": "2026-11-19T14:20:45.768Z",
+  "paquete": "p-261119-0829-d99f",
+  "sha256": "aa1603413f6f6fc3f6cadb25cd81e7ab025541bade40ad7d486c04ac14eef352",
+  "nota": "Cotizador › Costeo tela: UN solo costeo. La lista de precios (bloque 5) toma costo, mezcla, MO, gastos, comision y margen del bloque 3 sola; sin casillas propias · issue #5",
+  "fecha": "2026-11-19T14:29:24.378Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
