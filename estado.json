@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1107-a2af",
-  "sha256": "8ec6433b45cb1584ac362503aa7ae7f0acb865db164a4c23b9b849fabae7390c",
-  "nota": "Costeo tela bloque 3 apretado de verdad: filas 2px, casillas 20px, notas en linea, fuera nota sobrante (Mikey 11:06)",
-  "fecha": "2026-11-19T17:07:49.589Z",
+  "paquete": "p-261119-1115-8919",
+  "sha256": "1549fa8b76549ddcd6a0e17a91891cb6d61117b9f354cd87be32f883fd320252",
+  "nota": "Costeo tela bloque 3 = una sola tabla tipo 4.1 con las casillas de captura; fuera tarjetas de costo, secciones dobles y tabla repetida de 4.1 (Mikey 11:13)",
+  "fecha": "2026-11-19T17:15:30.001Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
