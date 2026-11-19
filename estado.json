@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0918-db15",
-  "sha256": "9e247710e5d0f9c0ba14b2a1191059990c6a261e8b230b3c5981c8cb560aacca",
-  "nota": "Cotizador › Costeo tela: disposicion horizontal a lo ancho (bloques 1-3 de ancho completo con tarjetas en fila; 2 con A-E en 5 columnas; 3 tarjetas+tabla lado a lado; 4.2 imagen y tarjetas lado a lado) · issue #5",
-  "fecha": "2026-11-19T15:18:21.768Z",
+  "paquete": "p-261119-0921-2b0d",
+  "sha256": "f46134184e4f4fe99861d3c8bc652fbf716359e50d8cd67b1559a295992f4998",
+  "nota": "Cotizador › Costeo tela: bloque 1 a lo ancho corregido (1.1 / 1.2 / 1.3 = 4/5/3 columnas; el selector contaba mal los hijos) · issue #5",
+  "fecha": "2026-11-19T15:21:51.116Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
