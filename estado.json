@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1027-a0aa",
-  "sha256": "e9b27fe549922c9d7f1f6595dd2e08fb5491416a48a1845345c43f6727d0db14",
-  "nota": "seguridad: lectura bbseg-dsbp.html0,bbseg-dsbp.html1,bbseg-dsbp.html2...",
-  "fecha": "2026-11-19T16:27:20.856Z",
-  "autor": "alex_",
-  "archivos": 56,
+  "paquete": "p-261119-1027-633f",
+  "sha256": "e0ffdb0639ff4ec7890782d887949c06f6b6567aea56fbe7656b2c5dfc129e8b",
+  "nota": "Costeo tela 4.2: precio en Bee Bags y con entrega (flete sumado al final) + rollo de 350 m en tarjetas, imagen y texto (Mikey 10:21-10:25)",
+  "fecha": "2026-11-19T16:27:41.308Z",
+  "autor": "alex",
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
