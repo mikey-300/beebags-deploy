@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1059-0948",
-  "sha256": "e33121c6aa3096b7c3e0cec961e066cea87c68165ff9fde7a279e6b7b1a3fd54",
-  "nota": "Costeo tela bloque 3 mas junto: renglones, casillas y titulos compactos, solo CSS (Mikey 10:58)",
-  "fecha": "2026-11-19T16:59:33.166Z",
+  "paquete": "p-261119-1101-d88b",
+  "sha256": "ee114f37682ca7eac2243a2bd4b56dd5db079851a1bc4256407b36c38c0c914a",
+  "nota": "Costeo tela bloque 3: gastos de fabricacion editable (MO y gastos $/kg a Parametros) + boton Lo del sistema que regresa la referencia (Mikey 10:59)",
+  "fecha": "2026-11-19T17:01:26.289Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
