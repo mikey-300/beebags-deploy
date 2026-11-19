@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1053-0beb",
-  "sha256": "a104ef346b4a18637cf96ce20c199f395070ca3fa94d4d7f920fb16afac5c85c",
-  "nota": "Costeo tela bloque 3: SUMA TOTAL y cuenta del punto 5 sin encimarse (operacion chica arriba, total abajo) (Mikey 10:52)",
-  "fecha": "2026-11-19T16:53:46.442Z",
+  "paquete": "p-261119-1056-c303",
+  "sha256": "ea14140417cd184589ee3ee30b52cfeb5583013784c08643ef948b8680ccd695",
+  "nota": "Costeo tela 4.2: imagen de la lista sin encabezados encimados; rollo por metro en dos columnas por ancho (en Bee Bags / con entrega) (Mikey 10:54)",
+  "fecha": "2026-11-19T16:56:14.328Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
