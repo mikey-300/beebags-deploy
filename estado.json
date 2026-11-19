@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261118-1657-7fe6",
-  "sha256": "8da35442a9f051e81a531793982f0972cc368a524eabad3e1b526be086b74a2e",
-  "nota": "seguridad: lectura bbseg-ap3",
-  "fecha": "2026-11-18T22:57:48.103Z",
-  "autor": "alex_",
+  "paquete": "p-261119-0754-de15",
+  "sha256": "209bdc844f7afe37f3159a4f1de654322d109e56c2653cb80b0145b5750920bd",
+  "nota": "RH #3 (19 nov 2026, Mikey): en la portada de RH el bloque «Dónde faltan más» ya se puede tocar: cada departamento abre la lista de quién faltó esa semana (nombre → expediente, ID checador, días que faltó, total) y un botón «Ver en Asistencia» filtrado por ese departamento. Solo web/rh-panel.js, sin reinicio.",
+  "fecha": "2026-11-19T13:54:34.545Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
