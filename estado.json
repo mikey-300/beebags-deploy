@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261119-1231-fdc5",
-  "sha256": "81131873a75b3626c340f16b998e6e725d75d74bf8df0cc295564a421bc78d49",
-  "nota": "seguridad: lectura bbseg-edi2",
-  "fecha": "2026-11-19T18:31:28.274Z",
-  "autor": "alex_",
+  "paquete": "p-261119-1231-1a47",
+  "sha256": "aaa5aa5ba4d67cb4a793c02fc35687a876ec9e4c6cb5af4a4ae10cf344e42aad",
+  "nota": "Costeo tela 4.1: boton Desarrollo del costeo que despliega el paso a paso por color (costo, venta, entrega, mercado) (Mikey 12:30)",
+  "fecha": "2026-11-19T18:31:35.894Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
