@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1325-87f5",
-  "sha256": "7292ca31f449fdb7290c890babbf47ba4f067a5c822a8252e20943dcc175172b",
-  "nota": "ordenes de compra de cadenas (MasterEDI): tarjeta urgente en Aprobaciones y, al aprobar, levanta el pedido por la misma alta de Pedidos",
-  "fecha": "2026-11-19T19:25:21.918Z",
+  "paquete": "p-261119-1424-2007",
+  "sha256": "fa4b988028e00234c20f2c8fd5c4c914b034606a11673014d7a1ed6e3b65af58",
+  "nota": "seguridad: lectura bbseg-ca1",
+  "fecha": "2026-11-19T20:24:11.172Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
