@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0939-bd0c",
-  "sha256": "0b2226270512682dd0fc4923ecf43de99e6ad1a0f3fb2ef87fb4949d17532f45",
-  "nota": "Costeo tela: reincorpora la migracion w3c 2→4 del paquete p-261119-0935-d3bd (quedo pisado por 0937) · issue #5",
-  "fecha": "2026-11-19T15:39:49.726Z",
+  "paquete": "p-261119-0941-ad9d",
+  "sha256": "eff07b3998ce679a0cc6e741f51ed0918e8fc44d2e82a675524344bf092cf794",
+  "nota": "Costeo tela bloque 1: las 3 tarjetas del mismo ancho (4/4/4) y misma altura; 1.2 compacta para caber; migracion de anchos guardados · issue #5",
+  "fecha": "2026-11-19T15:41:34.181Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
