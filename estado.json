@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1124-bd6c",
-  "sha256": "9ecc2608a83b74f25ab9b50bc088098c45bd25f79aba5c21b4eec3d9fda1211d",
-  "nota": "Costeo tela bloque 3: tabla junta a la izquierda, columnas de color pegadas al concepto, solo CSS (Mikey 11:23)",
-  "fecha": "2026-11-19T17:24:12.858Z",
-  "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261119-1125-5db9",
+  "sha256": "9d0d2f62eee3498333504b20c8ab79fc3551a5833ae7488cb84f9416e47fa745",
+  "nota": "vigilante del inventario: revisa cada manana y avisa a Mikey solo si encuentra algo (solo lectura)",
+  "fecha": "2026-11-19T17:25:36.422Z",
+  "autor": "alex_",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
