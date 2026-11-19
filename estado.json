@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0915-a91a",
-  "sha256": "1aa2fc8ca0465cc1bbecc29653d8ba14db21d9df4293a3f7bfb1201c47157bf3",
-  "nota": "Cotizador › Costeo tela: la lista de precios (imagen, tarjetas, rollo por metro, lista 1.60) pasa al bloque 4 como 4.2 antes del cierre (4.3); fuera historial y seccion repetida; bloques 1-3 compactos · issue #5",
-  "fecha": "2026-11-19T15:15:00.396Z",
+  "paquete": "p-261119-0915-5e5e",
+  "sha256": "ef2e503bfdfa4edecbc12b485882cdc7fb613893d3af482cdb5af64fab3c3f26",
+  "nota": "Cotizador › Costeo tela: lista de precios + rollo por metro + lista 1.60 dentro del bloque 4 (4.2), cierre pasa a 4.3, fuera historial y seccion repetida; bloques 1-3 compactos · issue #5",
+  "fecha": "2026-11-19T15:15:56.933Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
