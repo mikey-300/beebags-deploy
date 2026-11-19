@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0801-7d8a",
-  "sha256": "ed166292ed0e4412c50666a47958e1ea6ce0025777bd54ef2201d36624438ff0",
-  "nota": "RH #4 (19 nov 2026, Mikey): en RH › Nómina de una semana PAGADA, tocar el renglón de una persona abre el desglose de dónde sale lo pagado: horas (reloj, extras, ajuste RH, domingo), precio por hora (sueldo real ÷ 48 o 42 según turno), salario semanal, salario NOI (IMSS ÷ 7 × días), bonos asistencia/puntualidad con su regla, NOI bruto, deducciones, NOI neto, efectivo, bonos, total y cómo se pagó; cada paso con comprobación ✓/≠ contra la cifra del libro. También corrige el título «del undefined/undefined/Tue Nov 03» (fechas ISO). Solo web/rh-panel.js, sin reinicio.",
-  "fecha": "2026-11-19T14:01:30.275Z",
+  "paquete": "p-261119-0801-f09a",
+  "sha256": "16b6c520a6f59e9c6b55d7422449725485aa8d81012ebaccc8346060965ec279",
+  "nota": "RH #4 (19 nov 2026, Mikey): Nómina pagada → clic en un renglón abre el DESGLOSE del pago (horas → precio/hora → salario semanal → vía NOI + bonos asistencia/puntualidad → deducciones → total NOI → efectivo → bonos → total → cómo se pagó) con marca ✓ cuadra / ≠ libro por paso; el ID del reloj va como número de fila; tabla compacta; título ya sin «undefined» en las fechas. Solo web/rh-panel.js, sin reinicio.",
+  "fecha": "2026-11-19T14:01:50.120Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
