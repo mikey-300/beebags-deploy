@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0841-2562",
-  "sha256": "910cd9a8295e7a8d25ac1f042f81ed34877e12e61b6cf7ad5ffc6f2f550ac982",
-  "nota": "Cotizador › Costeo tela: bloque 4 Resumen del costeo (plegable), BYVA pasa a 5 y lista a 6; la lista ya no repite el bloque 3; merma 0 en la sincronia (modelo de rollo) · issue #5",
-  "fecha": "2026-11-19T14:41:37.674Z",
+  "paquete": "p-261119-0843-91fd",
+  "sha256": "658a50e7a77be23877dfc92f99339c39aa6c16a4680c413ab4976b0af89e75d8",
+  "nota": "Cotizador › Costeo tela: bloque 4 Resumen y cierre mes a mes (plegable), BYVA pasa a 5 y lista a 6; la lista ya no repite el bloque 3; merma del rollo corregida · issue #5",
+  "fecha": "2026-11-19T14:43:18.590Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
