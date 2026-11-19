@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0843-91fd",
-  "sha256": "658a50e7a77be23877dfc92f99339c39aa6c16a4680c413ab4976b0af89e75d8",
-  "nota": "Cotizador › Costeo tela: bloque 4 Resumen y cierre mes a mes (plegable), BYVA pasa a 5 y lista a 6; la lista ya no repite el bloque 3; merma del rollo corregida · issue #5",
-  "fecha": "2026-11-19T14:43:18.590Z",
+  "paquete": "p-261119-0858-d640",
+  "sha256": "0f75d359231541af2b11ab1c4222e3cc66f3026704020507c8a3396f3bb5c36d",
+  "nota": "Cotizador › Costeo tela 4.2: filtro por año / mes / todo y celdas editables (T.C., PP, Ref Byva → historia; Vendido B/N → historial de la lista) · issue #5",
+  "fecha": "2026-11-19T14:58:13.943Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
