@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1115-8919",
-  "sha256": "1549fa8b76549ddcd6a0e17a91891cb6d61117b9f354cd87be32f883fd320252",
-  "nota": "Costeo tela bloque 3 = una sola tabla tipo 4.1 con las casillas de captura; fuera tarjetas de costo, secciones dobles y tabla repetida de 4.1 (Mikey 11:13)",
-  "fecha": "2026-11-19T17:15:30.001Z",
+  "paquete": "p-261119-1120-7f48",
+  "sha256": "f2d66fe7a65c231eb4526d7a943406d254409482e855454aa01ead14a7f5f7e5",
+  "nota": "Costeo tela: regresa la tabla de 4.1 tal cual (la foto 2 se queda); bloque 3 sigue compacto con casillas (Mikey 11:19)",
+  "fecha": "2026-11-19T17:20:09.371Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
