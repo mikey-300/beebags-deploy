@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-1101-d88b",
-  "sha256": "ee114f37682ca7eac2243a2bd4b56dd5db079851a1bc4256407b36c38c0c914a",
-  "nota": "Costeo tela bloque 3: gastos de fabricacion editable (MO y gastos $/kg a Parametros) + boton Lo del sistema que regresa la referencia (Mikey 10:59)",
-  "fecha": "2026-11-19T17:01:26.289Z",
+  "paquete": "p-261119-1103-39f0",
+  "sha256": "3c79d68a376e9036c37e9c1ff9c97a06bbdec7e17d20edf8abd4644cc46b915b",
+  "nota": "Costeo tela 4.2: fuera el rollo de 350 m de imagen, texto y rollo por metro; quedan precio en Bee Bags y con entrega (Mikey 11:02)",
+  "fecha": "2026-11-19T17:03:42.242Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
