@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0921-2b0d",
-  "sha256": "f46134184e4f4fe99861d3c8bc652fbf716359e50d8cd67b1559a295992f4998",
-  "nota": "Cotizador › Costeo tela: bloque 1 a lo ancho corregido (1.1 / 1.2 / 1.3 = 4/5/3 columnas; el selector contaba mal los hijos) · issue #5",
-  "fecha": "2026-11-19T15:21:51.116Z",
+  "paquete": "p-261119-0925-ca7c",
+  "sha256": "77a3a2b1892ae33ec9372a74624f8e8ad6ec7d64cb3bb80d972e80a840e28e93",
+  "nota": "Cotizador › Costeo tela: panel «⚙ Anchos» editable (reparto bloque 1, tarjetas por fila en 2, proporcion en 3, 4.1 y 4.2, usar todo el ancho) guardado en el navegador · issue #5",
+  "fecha": "2026-11-19T15:25:51.961Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
