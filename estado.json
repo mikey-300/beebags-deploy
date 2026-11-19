@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0925-ca7c",
-  "sha256": "77a3a2b1892ae33ec9372a74624f8e8ad6ec7d64cb3bb80d972e80a840e28e93",
-  "nota": "Cotizador › Costeo tela: panel «⚙ Anchos» editable (reparto bloque 1, tarjetas por fila en 2, proporcion en 3, 4.1 y 4.2, usar todo el ancho) guardado en el navegador · issue #5",
-  "fecha": "2026-11-19T15:25:51.961Z",
+  "paquete": "p-261119-0935-d3bd",
+  "sha256": "dea7fa4db3a55fae7ef349bf7e73b2d3b4ec571cf525d8640e6c7aab1ccdd5d3",
+  "nota": "Costeo tela bloque 3: los 4 costos por color en una sola linea (default w3c=4) · issue #5",
+  "fecha": "2026-11-19T15:35:10.112Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
