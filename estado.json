@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261119-1141-6576",
-  "sha256": "547653c90bb42cad1709564be9d44e8245f520a7d0922c2f3a4c03c7bb63e4a8",
-  "nota": "Costeo tela bloque 3 = solo parametros que se capturan (MO/gastos, desperdicio, utilidad, comision, mercado); el resultado por color se lee en 4.1 (Mikey 11:40)",
-  "fecha": "2026-11-19T17:41:39.504Z",
-  "autor": "alex",
+  "paquete": "p-261119-1145-2e03",
+  "sha256": "0dee30067d41a0b3a1fce6781af83e3772037bc08dee46a37087efeddc5d023a",
+  "nota": "seguridad: lectura bbseg-buz1",
+  "fecha": "2026-11-19T17:45:02.150Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
