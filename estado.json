@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1047-150f",
-  "sha256": "ddd7928a35400f30dc5ad665f8a5b9f14a0efd44298f2da66ace0de2ff561e0e",
-  "nota": "seguridad: lectura bbseg-dairtablejs0,bbseg-dairtablejs1,bbseg-dairtablejs2...",
-  "fecha": "2026-11-19T16:47:31.635Z",
-  "autor": "alex_",
-  "archivos": 13,
+  "paquete": "p-261119-1049-34d8",
+  "sha256": "0764a314d7e7dd6079adf83ebf9654eb7eabd98c279f9c9ff15bef64976d2c79",
+  "nota": "Costeo tela bloque 3: izquierda hasta el punto 3 con SUMA TOTAL (costo + utilidad neta + comision = precio de venta); derecha 4 mercado y 5 precio de venta (Mikey 10:48)",
+  "fecha": "2026-11-19T16:49:22.681Z",
+  "autor": "alex",
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
