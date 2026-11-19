@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0941-ad9d",
-  "sha256": "eff07b3998ce679a0cc6e741f51ed0918e8fc44d2e82a675524344bf092cf794",
-  "nota": "Costeo tela bloque 1: las 3 tarjetas del mismo ancho (4/4/4) y misma altura; 1.2 compacta para caber; migracion de anchos guardados · issue #5",
-  "fecha": "2026-11-19T15:41:34.181Z",
+  "paquete": "p-261119-0947-edb4",
+  "sha256": "31e80476913ecda3fcd625435b48b9a7af94b0efab454d3dae63f99acee15731",
+  "nota": "Costeo tela 3.1: numeros pegados a la derecha en columnas angostas; secciones 1-2 a la izquierda y 3-4 (cuanto gano, mercado) al lado derecho · issue #5",
+  "fecha": "2026-11-19T15:47:58.667Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
