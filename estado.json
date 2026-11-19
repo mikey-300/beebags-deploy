@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1128-8067",
-  "sha256": "2dd81a8841df80c55b02979794de9e2c776d4c540e982bdfbd089d5b8406074b",
-  "nota": "vigilante: Material En Trasito, Asa y Costura cuentan como rollo",
-  "fecha": "2026-11-19T17:28:37.923Z",
-  "autor": "alex_",
+  "paquete": "p-261119-1141-6576",
+  "sha256": "547653c90bb42cad1709564be9d44e8245f520a7d0922c2f3a4c03c7bb63e4a8",
+  "nota": "Costeo tela bloque 3 = solo parametros que se capturan (MO/gastos, desperdicio, utilidad, comision, mercado); el resultado por color se lee en 4.1 (Mikey 11:40)",
+  "fecha": "2026-11-19T17:41:39.504Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
