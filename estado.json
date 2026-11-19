@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0805-7ef5",
-  "sha256": "3c922d8058f334e8184abfe958713f9daba7cc0173f311cb8646778a5c34296b",
-  "nota": "RH #5 (19 nov 2026): complemento del desglose de nómina pagada: «Salario para NOI» muestra su regla (salario IMSS ÷ 7 × días) y los bonos de asistencia/puntualidad su regla (semana completa y sueldo real > IMSS → mín(10 % del salario NOI, mitad de la diferencia semanal − NOI)), ambos con ✓ cuadra / ≠ libro. Reglas verificadas contra 914 renglones de las semanas 30/40/44/45 sin diferencias. Solo web/rh-panel.js, sin reinicio.",
-  "fecha": "2026-11-19T14:05:19.897Z",
+  "paquete": "p-261119-0820-08b2",
+  "sha256": "b4e6dc25f1cd51788a191fde2305bf35a6140b5b69001f9dd422d45b72e34809",
+  "nota": "Cotizador › Costeo tela: bloque 2 por periodo (mes/promedio/ultimos 3) + energia aparte + lista de precios igualable al costeo · issue #5",
+  "fecha": "2026-11-19T14:20:45.768Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
