@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0858-d640",
-  "sha256": "0f75d359231541af2b11ab1c4222e3cc66f3026704020507c8a3396f3bb5c36d",
-  "nota": "Cotizador › Costeo tela 4.2: filtro por año / mes / todo y celdas editables (T.C., PP, Ref Byva → historia; Vendido B/N → historial de la lista) · issue #5",
-  "fecha": "2026-11-19T14:58:13.943Z",
+  "paquete": "p-261119-0915-a91a",
+  "sha256": "1aa2fc8ca0465cc1bbecc29653d8ba14db21d9df4293a3f7bfb1201c47157bf3",
+  "nota": "Cotizador › Costeo tela: la lista de precios (imagen, tarjetas, rollo por metro, lista 1.60) pasa al bloque 4 como 4.2 antes del cierre (4.3); fuera historial y seccion repetida; bloques 1-3 compactos · issue #5",
+  "fecha": "2026-11-19T15:15:00.396Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
