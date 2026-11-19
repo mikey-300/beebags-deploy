@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261119-0935-d3bd",
-  "sha256": "dea7fa4db3a55fae7ef349bf7e73b2d3b4ec571cf525d8640e6c7aab1ccdd5d3",
-  "nota": "Costeo tela bloque 3: los 4 costos por color en una sola linea (default w3c=4) · issue #5",
-  "fecha": "2026-11-19T15:35:10.112Z",
+  "paquete": "p-261119-0937-fd9b",
+  "sha256": "638a04787a383fa365004a765041c3f865d528e91dfb7f439a48b59440c09703",
+  "nota": "Cotizador › Costeo tela: E con «¿Como se calcula?» (mes a mes, 10 meses del reporte vs 9 completos, aviso de octubre sin gastos) y «Mandar a 3.1»; bloque 3 con las 4 tarjetas en fila arriba y la tabla amplia abajo · issue #5",
+  "fecha": "2026-11-19T15:37:27.286Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
