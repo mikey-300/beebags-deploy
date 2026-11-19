@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1050-7a61",
-  "sha256": "cddcb3251ade06c866439ef29f0ccfadff039146db2720f8c82457b8b1cf44d0",
-  "nota": "airtable.js: leer bien los acentos (setEncoding utf8) - el stock de polipropileno en pantalla no restaba la salida 14100",
-  "fecha": "2026-11-19T16:50:12.835Z",
-  "autor": "alex_",
+  "paquete": "p-261119-1053-0beb",
+  "sha256": "a104ef346b4a18637cf96ce20c199f395070ca3fa94d4d7f920fb16afac5c85c",
+  "nota": "Costeo tela bloque 3: SUMA TOTAL y cuenta del punto 5 sin encimarse (operacion chica arriba, total abajo) (Mikey 10:52)",
+  "fecha": "2026-11-19T16:53:46.442Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
