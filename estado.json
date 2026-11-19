@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261119-1125-5db9",
-  "sha256": "9d0d2f62eee3498333504b20c8ab79fc3551a5833ae7488cb84f9416e47fa745",
-  "nota": "vigilante del inventario: revisa cada manana y avisa a Mikey solo si encuentra algo (solo lectura)",
-  "fecha": "2026-11-19T17:25:36.422Z",
+  "paquete": "p-261119-1128-8067",
+  "sha256": "2dd81a8841df80c55b02979794de9e2c776d4c540e982bdfbd089d5b8406074b",
+  "nota": "vigilante: Material En Trasito, Asa y Costura cuentan como rollo",
+  "fecha": "2026-11-19T17:28:37.923Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
