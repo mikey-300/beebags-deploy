@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1242-1764",
-  "sha256": "b0e5ea616ba902e1bfe8fd75fe30c9f81517048ff5ef67b20820f40363423f91",
-  "nota": "Hub (20 nov 2026, Mikey: «que la barra de áreas esté siempre fija para cambiarme de área con un clic sin salir»): la barra fina de la app abierta ahora trae la misma tira de áreas (Pedidos, Almacén, Tesorería, RH…); un clic abre la otra área en el mismo lugar, sin volver a Inicio, sin zoom; la abierta queda marcada. Solo web/index.html, sin reinicio.",
-  "fecha": "2026-11-20T18:42:05.971Z",
+  "paquete": "p-261120-1245-a37c",
+  "sha256": "4a0d029847d89b36923f6d8637a7ee67ce36364f99e80cc7000ceb5dc17ec0cb",
+  "nota": "Hub cerebro.html (20 nov 2026): el paquete anterior fue a web/index.html, pero la portada que se usa es /cerebro.html. Mismo cambio aquí: la barra de la app abierta trae la tira de áreas fija; un clic cambia de área en el mismo lugar, sin Inicio ni zoom; la abierta queda marcada. Solo web/cerebro.html, sin reinicio.",
+  "fecha": "2026-11-20T18:45:58.023Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
