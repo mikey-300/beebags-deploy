@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1248-2677",
-  "sha256": "3bf1d6810789d5728beab54d8a5322a40c7b91375ee1ef521f2fee8db0829ac4",
-  "nota": "Hub cerebro2.html (20 nov 2026): el archivo que el server sirve como portada (/ y /cerebro.html) es web/cerebro2.html (CEREBRO_HTML en index.js). Mismo cambio de la tira de áreas fija en la barra de la app abierta. Solo web/cerebro2.html, sin reinicio.",
-  "fecha": "2026-11-20T18:48:32.222Z",
+  "paquete": "p-261120-1250-97ea",
+  "sha256": "150d002800cca5446d06441cc966531edb5de919a1df57b0ec940772821f7c27",
+  "nota": "Hub cerebro2.html v2 (20 nov 2026, Mikey: «quedaron súper grandes los íconos»): la tira de áreas de la barra de la app abierta usa íconos de 24 px y letra de 11.5 px, igual que la tira de la portada. Solo web/cerebro2.html, sin reinicio.",
+  "fecha": "2026-11-20T18:50:25.671Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
