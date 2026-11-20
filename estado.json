@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1245-a37c",
-  "sha256": "4a0d029847d89b36923f6d8637a7ee67ce36364f99e80cc7000ceb5dc17ec0cb",
-  "nota": "Hub cerebro.html (20 nov 2026): el paquete anterior fue a web/index.html, pero la portada que se usa es /cerebro.html. Mismo cambio aquí: la barra de la app abierta trae la tira de áreas fija; un clic cambia de área en el mismo lugar, sin Inicio ni zoom; la abierta queda marcada. Solo web/cerebro.html, sin reinicio.",
-  "fecha": "2026-11-20T18:45:58.023Z",
+  "paquete": "p-261120-1248-2677",
+  "sha256": "3bf1d6810789d5728beab54d8a5322a40c7b91375ee1ef521f2fee8db0829ac4",
+  "nota": "Hub cerebro2.html (20 nov 2026): el archivo que el server sirve como portada (/ y /cerebro.html) es web/cerebro2.html (CEREBRO_HTML en index.js). Mismo cambio de la tira de áreas fija en la barra de la app abierta. Solo web/cerebro2.html, sin reinicio.",
+  "fecha": "2026-11-20T18:48:32.222Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
