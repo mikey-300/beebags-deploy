@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1228-c4bd",
-  "sha256": "5ac084a13b6fbe23d8ec5686911ad3a1c2ae7b7f573a9df78369d293770285c3",
-  "nota": "Tesorería v5 (20 nov 2026): corrige v4; la regla de una sola línea para las cantidades del Cuadre del año ahora pesa más que la original (.kpi.hkpi .v, sin partir palabras). Solo web/bancos.html, sin reinicio.",
-  "fecha": "2026-11-20T18:28:40.595Z",
+  "paquete": "p-261120-1234-5960",
+  "sha256": "2a14c0aec127333b4b72dd2da64fde40cc75937a07b6dfa3415aae7e0618c51d",
+  "nota": "Tesorería v6 (20 nov 2026, Mikey: «mi libro tiene clasificaciones que aquí no veo y déjame en modo edición»): en Movimientos se ven Proveedor, Código, Sección y Descripción del catálogo (como el libro) y cada renglón tiene ✏️ para editar proveedor, código y empresa o clasificar un pendiente; guarda por el mismo /clasificar del server y refresca la lista. Solo web/bancos.html, sin reinicio.",
+  "fecha": "2026-11-20T18:34:26.825Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
