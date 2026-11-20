@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1234-5960",
-  "sha256": "2a14c0aec127333b4b72dd2da64fde40cc75937a07b6dfa3415aae7e0618c51d",
-  "nota": "Tesorería v6 (20 nov 2026, Mikey: «mi libro tiene clasificaciones que aquí no veo y déjame en modo edición»): en Movimientos se ven Proveedor, Código, Sección y Descripción del catálogo (como el libro) y cada renglón tiene ✏️ para editar proveedor, código y empresa o clasificar un pendiente; guarda por el mismo /clasificar del server y refresca la lista. Solo web/bancos.html, sin reinicio.",
-  "fecha": "2026-11-20T18:34:26.825Z",
+  "paquete": "p-261120-1242-1764",
+  "sha256": "b0e5ea616ba902e1bfe8fd75fe30c9f81517048ff5ef67b20820f40363423f91",
+  "nota": "Hub (20 nov 2026, Mikey: «que la barra de áreas esté siempre fija para cambiarme de área con un clic sin salir»): la barra fina de la app abierta ahora trae la misma tira de áreas (Pedidos, Almacén, Tesorería, RH…); un clic abre la otra área en el mismo lugar, sin volver a Inicio, sin zoom; la abierta queda marcada. Solo web/index.html, sin reinicio.",
+  "fecha": "2026-11-20T18:42:05.971Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
