@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1250-97ea",
-  "sha256": "150d002800cca5446d06441cc966531edb5de919a1df57b0ec940772821f7c27",
-  "nota": "Hub cerebro2.html v2 (20 nov 2026, Mikey: «quedaron súper grandes los íconos»): la tira de áreas de la barra de la app abierta usa íconos de 24 px y letra de 11.5 px, igual que la tira de la portada. Solo web/cerebro2.html, sin reinicio.",
-  "fecha": "2026-11-20T18:50:25.671Z",
+  "paquete": "p-261120-1254-cc44",
+  "sha256": "970624a6d83137acfb06e6dabcba514921b0bf543327976929fa3f94a5f7a7c6",
+  "nota": "Hub cerebro2.html v3 (20 nov 2026, Mikey): la app «Guía de Omar» se llama ahora «Guía Almacén» en la portada, la tira fija y el buscador (misma liga /guia-omar.html). Solo web/cerebro2.html, sin reinicio.",
+  "fecha": "2026-11-20T18:54:12.000Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
