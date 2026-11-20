@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1224-d022",
-  "sha256": "f73b4978a95417d110f314a5e4b89505236994ed83a86e3935f34d2f82f3a5e0",
-  "nota": "Tesorería v3 (20 nov 2026, Mikey: «no le vi caso tan grande, júntalo a la izquierda»): el Cuadre del año y la gráfica vuelven a su ancho original (1280 px); solo la pestaña Movimientos usa toda la pantalla, con la tabla compacta y pegada a la izquierda (columnas al ancho de su contenido, concepto y proveedor parten línea si son largos). Se conservan filtros automáticos y Descargar CSV. Solo web/bancos.html, sin reinicio.",
-  "fecha": "2026-11-20T18:24:35.100Z",
+  "paquete": "p-261120-1228-8dc3",
+  "sha256": "a43ba0e5842f488113242c2c5baa2fcab33601b1698c805184bafc96a6fd7155",
+  "nota": "Tesorería v4 (20 nov 2026, Mikey): las cantidades de las tarjetas del Cuadre del año quedan en una sola línea (la letra se ajusta al ancho de la tarjeta, sin partir el número). Solo web/bancos.html, sin reinicio.",
+  "fecha": "2026-11-20T18:28:24.611Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
