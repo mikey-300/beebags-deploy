@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1445-06af",
-  "sha256": "e6c837ee97c5a4340355b3548f704841e06b19066d423c0fe3520df57fb26363",
-  "nota": "compras: la consultora externa (Gina) entra solo al Tablero",
-  "fecha": "2026-11-20T20:45:47.300Z",
+  "paquete": "p-261120-1447-92ae",
+  "sha256": "018edd10f3333c56f765064343361992e9faed42e90a62283b0e57a435c95a7e",
+  "nota": "seguridad: lectura bbseg-pruebagina",
+  "fecha": "2026-11-20T20:47:22.590Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
