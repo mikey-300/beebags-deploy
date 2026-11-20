@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1000-3ef7",
-  "sha256": "0bb6764959dfe806d869a0a3e884eb19eb8653123ef4b3af02e821b3018e8a5f",
-  "nota": "Reportes (20 nov 2026, Mikey: «necesito el día a día por máquina»): en las gráficas de serie con varias series (Producción de rollos › Kilos producidos por día y máquina) hay un tercer botón «Tabla» junto a Apilado/Líneas: una fila por día, una columna por máquina, total del día, vs. promedio, mejor día marcado, y al pie totales, % por máquina y promedio por día; con «Descargar esta tabla (CSV)». Solo web/reportes.html, sin reinicio.",
-  "fecha": "2026-11-20T16:00:31.265Z",
+  "paquete": "p-261120-1219-b327",
+  "sha256": "d3588046b4abd9e920bd7207c09e734158ecafa2400d500318decda9631aeb17",
+  "nota": "Tesorería (20 nov 2026, Mikey: «hazmelo amplio el escritorio»): la página usa todo el ancho en pantallas de escritorio (antes columna de 1280 px), la tabla de Movimientos es más alta, el filtro Cuenta ya no sale cortado, los filtros buscan solos al cambiarlos y hay botón «Descargar CSV» con los filtros puestos (baja todas las páginas). Solo web/bancos.html, sin reinicio.",
+  "fecha": "2026-11-20T18:19:38.424Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
