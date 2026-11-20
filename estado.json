@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1222-c472",
-  "sha256": "7400f03e31abe7433ec4971f124d85b9e92f4b2a8b9cab5e44254cdf3c021fd3",
-  "nota": "Tesorería v2 (20 nov 2026, Mikey: «sigue igual, no cabe»): la tabla de Movimientos ya cabe completa en la pantalla (concepto y proveedor parten línea, números y fechas no; letra y relleno más compactos; la columna Estado ya no queda fuera a la derecha) y el ancho completo aplica desde 1100 px de pantalla. Solo web/bancos.html, sin reinicio.",
-  "fecha": "2026-11-20T18:22:19.772Z",
+  "paquete": "p-261120-1224-d022",
+  "sha256": "f73b4978a95417d110f314a5e4b89505236994ed83a86e3935f34d2f82f3a5e0",
+  "nota": "Tesorería v3 (20 nov 2026, Mikey: «no le vi caso tan grande, júntalo a la izquierda»): el Cuadre del año y la gráfica vuelven a su ancho original (1280 px); solo la pestaña Movimientos usa toda la pantalla, con la tabla compacta y pegada a la izquierda (columnas al ancho de su contenido, concepto y proveedor parten línea si son largos). Se conservan filtros automáticos y Descargar CSV. Solo web/bancos.html, sin reinicio.",
+  "fecha": "2026-11-20T18:24:35.100Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
