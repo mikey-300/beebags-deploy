@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261120-1219-b327",
-  "sha256": "d3588046b4abd9e920bd7207c09e734158ecafa2400d500318decda9631aeb17",
-  "nota": "Tesorería (20 nov 2026, Mikey: «hazmelo amplio el escritorio»): la página usa todo el ancho en pantallas de escritorio (antes columna de 1280 px), la tabla de Movimientos es más alta, el filtro Cuenta ya no sale cortado, los filtros buscan solos al cambiarlos y hay botón «Descargar CSV» con los filtros puestos (baja todas las páginas). Solo web/bancos.html, sin reinicio.",
-  "fecha": "2026-11-20T18:19:38.424Z",
+  "paquete": "p-261120-1222-c472",
+  "sha256": "7400f03e31abe7433ec4971f124d85b9e92f4b2a8b9cab5e44254cdf3c021fd3",
+  "nota": "Tesorería v2 (20 nov 2026, Mikey: «sigue igual, no cabe»): la tabla de Movimientos ya cabe completa en la pantalla (concepto y proveedor parten línea, números y fechas no; letra y relleno más compactos; la columna Estado ya no queda fuera a la derecha) y el ancho completo aplica desde 1100 px de pantalla. Solo web/bancos.html, sin reinicio.",
+  "fecha": "2026-11-20T18:22:19.772Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
