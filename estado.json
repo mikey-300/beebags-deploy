@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261123-1755-8091",
-  "sha256": "9a20d100830e91b5806f99522a5272107b1b2587cfc71ad97979165998e4d482",
-  "nota": "camaras: 77 camaras con IA en CAMARAS (grabador .104)",
-  "fecha": "2026-11-23T23:55:16.548Z",
+  "paquete": "p-261123-1757-acb4",
+  "sha256": "276146413fceb3070483fa9fab744a555bf1e0f243139316309d3156cc017084",
+  "nota": "seguridad: lectura bbseg-ruben-auth",
+  "fecha": "2026-11-23T23:57:14.901Z",
   "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
