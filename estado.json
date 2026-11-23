@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261123-1439-478d",
-  "sha256": "7b4e7bbc8e0d1402d7b4c8c467b20808df6803d25f7339fe9fa21cd99c208ed9",
-  "nota": "Ticket 21 (Olimpia 23 nov): en Consultas de Spunbond, 'Etiquetas de rollo' con varios rollos palomeados abre UN solo PDF con todas (antes abria una pestana por etiqueta y el navegador las bloqueaba). Solo web/spunbond-panel.html, sin reinicio.",
-  "fecha": "2026-11-23T20:39:32.743Z",
+  "paquete": "p-261123-1746-f325",
+  "sha256": "2be3269818a82dcca64562122f3229044feaa95766d28a49d74987dcf1875034",
+  "nota": "seguridad: lectura bbseg-camleer",
+  "fecha": "2026-11-23T23:46:53.924Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
