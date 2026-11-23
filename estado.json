@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261123-1751-46fb",
-  "sha256": "298f907fe8bae01cb019801b0b3fbf2091bdf88d3c1527442e6f0b91f0082694",
-  "nota": "seguridad: lectura bbseg-camcred",
-  "fecha": "2026-11-23T23:51:39.512Z",
+  "paquete": "p-261123-1753-9a39",
+  "sha256": "16dd233543a6bcbd8b3cf1a6bfa8f169e44294f39cf28bc078987e575c16d54b",
+  "nota": "seguridad: lectura bbseg-cambak",
+  "fecha": "2026-11-23T23:53:20.856Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
