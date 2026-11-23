@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261123-1148-218c",
-  "sha256": "f2cbfac36875c514311c11666979b0fff82100520afaca911f96e002e020c264",
-  "nota": "seguridad: lectura bbseg-reg9",
-  "fecha": "2026-11-23T17:48:32.405Z",
+  "paquete": "p-261123-1149-8aff",
+  "sha256": "48d6ab0848b4eb9867e618e6afb88d1aef6fa6439da0e9e4dbf51e76c04537d1",
+  "nota": "Ticket 9 (Mikey 23 nov): las ordenes de compra de cadenas (MasterEDI) salen tambien en el panel de Pedidos y las atiende el equipo de Pedidos (Sara, Dulce, Miriam) ademas de Direccion; Miriam ya registra pedidos",
+  "fecha": "2026-11-23T17:49:19.108Z",
   "autor": "MIGUEL",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
