@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261123-1129-afcf",
-  "sha256": "9e436212f164808a1f10cb9d76a91116bf0a09c03fcfa745017273733529c1ae",
-  "nota": "Correccion de salidas: nueva opcion 'Parte del viaje regresa al almacen' (se eligen los productos que ya no van y a que rack regresan; Direccion aprueba). Mikey 23 nov, salida 1554",
-  "fecha": "2026-11-23T17:29:46.526Z",
+  "paquete": "p-261123-1133-0bd9",
+  "sha256": "80884f78219e3fae08a504a572f463a45be4ffc87ab33720581b7f7c6396e703",
+  "nota": "seguridad: lectura bbseg-reg4",
+  "fecha": "2026-11-23T17:33:15.958Z",
   "autor": "MIGUEL",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
