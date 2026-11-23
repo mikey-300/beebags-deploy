@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261123-1753-9a39",
-  "sha256": "16dd233543a6bcbd8b3cf1a6bfa8f169e44294f39cf28bc078987e575c16d54b",
-  "nota": "seguridad: lectura bbseg-cambak",
-  "fecha": "2026-11-23T23:53:20.856Z",
+  "paquete": "p-261123-1755-8091",
+  "sha256": "9a20d100830e91b5806f99522a5272107b1b2587cfc71ad97979165998e4d482",
+  "nota": "camaras: 77 camaras con IA en CAMARAS (grabador .104)",
+  "fecha": "2026-11-23T23:55:16.548Z",
   "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
