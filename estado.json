@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261124-1717-b075",
-  "sha256": "98a322a5471a3da2409fe70e11fab95dbc7a600564b893e76946c158b1b938c1",
-  "nota": "Lista bolsa + impresion: modelo apagado se oculta + signo de pesos (issue #6, solo web)",
-  "fecha": "2026-11-24T23:17:12.880Z",
+  "paquete": "p-261124-1719-36ed",
+  "sha256": "4baa15d4ed90a0da6a896f13ce2e1a1c983c6bd807889aed074f6efcd931ddfe",
+  "nota": "Lista bolsa + impresion: vista Gramajes juntos (70/80/90 lado a lado con lo que sube) (issue #6, solo web)",
+  "fecha": "2026-11-24T23:19:37.594Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
