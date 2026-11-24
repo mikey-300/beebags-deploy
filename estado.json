@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261124-0941-a8a1",
-  "sha256": "7432160978dc8411976513c906f3c347eaf20880e0764fdbd7aca77638c02919",
-  "nota": "Lista bolsa + impresion: bolsas mas grandes y tabla compacta a la izquierda (issue #6, solo web)",
-  "fecha": "2026-11-24T15:41:09.807Z",
+  "paquete": "p-261124-0943-7cdb",
+  "sha256": "b762dcd4ad6ddc272b9b9c49555bfc8bf3fa1319336ccecf53774fab7afb93ac",
+  "nota": "Lista bolsa + impresion: cuadrito por modelo para prender/apagar todos sus renglones (issue #6, solo web)",
+  "fecha": "2026-11-24T15:43:27.521Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
