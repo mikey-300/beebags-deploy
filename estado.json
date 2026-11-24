@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1210-45ae",
-  "sha256": "240aa6259fc3d32ac90d7c5127cc151c61908d20104dd8a8ba8fc217de32f89c",
-  "nota": "cerebro: app Camaras (Muralla) en Aplicaciones y carpetas Direccion/Seguridad/Operaciones (reintento, prueba sin acentos)",
-  "fecha": "2026-11-24T18:10:21.365Z",
+  "paquete": "p-261124-1212-5dd8",
+  "sha256": "bbeefc3f4c07ecc6b9fd83835418a74c8e161c94044e51f8866dc9868ae075d1",
+  "nota": "seguridad: lectura bbseg-dc20,bbseg-dc21,bbseg-dc22...",
+  "fecha": "2026-11-24T18:12:07.838Z",
   "autor": "MIGUEL",
-  "archivos": 1,
+  "archivos": 26,
   "reinicio": false,
   "pausado": false
 }
