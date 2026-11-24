@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261123-1803-c5bb",
-  "sha256": "6c49961f914039ca974b288e3da85fe1b03f61148282892ee1e275978d1f2950",
-  "nota": "seguridad: lectura bbseg-camcat",
-  "fecha": "2026-11-24T00:03:40.161Z",
+  "paquete": "p-261123-1805-bb8f",
+  "sha256": "1009dc13503976c31229cfd773d7f250dce7b8affc35f4a7dcfe52865b499eae",
+  "nota": "ticket 33: Ruben (Produccion) ve el almacen desde su inicio, solo consulta",
+  "fecha": "2026-11-24T00:05:28.045Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
