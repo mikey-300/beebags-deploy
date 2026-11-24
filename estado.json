@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261124-1157-8f6b",
-  "sha256": "5621e52f12fd4d662c003fffed02374a83f4e3be74ea495c9861de5b485d8f3e",
-  "nota": "facturas: subir VARIOS XML y PDF de un jalon a la misma salida (fila Factura 1 de N, PDF emparejado por folio, salida ya palomeada)",
-  "fecha": "2026-11-24T17:57:05.176Z",
+  "paquete": "p-261124-1207-3863",
+  "sha256": "815495b0ccc7cf9e685860b8aae144e9cd5c608a9dea9a0adb36eb54baf37bd6",
+  "nota": "cerebro: app Camaras (Muralla, 77 camaras con IA) en Aplicaciones y en carpetas Direccion/Seguridad/Operaciones",
+  "fecha": "2026-11-24T18:07:30.345Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
