@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261124-1534-feee",
-  "sha256": "19ea4b456c7a6acaaa314efaf54401fe2d7106cc778484e89274f577d4405ee0",
-  "nota": "Muralla de camaras redisenada (ticket 57): filtros por area, busqueda, rejilla 2/3/4/6, mosaico de 4, visor grande con flechas y pantalla completa, video 1080p, sin senal al final, sesion en fotos y video para que funcione por internet",
-  "fecha": "2026-11-24T21:34:40.485Z",
+  "paquete": "p-261124-1543-c7e9",
+  "sha256": "2d010fd7c37ea662aa49c9ee339fa7b2dfcead202975726f8d87fc7ee0353e15",
+  "nota": "Muralla de camaras (ticket 57): el mosaico ensena la foto y reintenta el video si la IA tiene sus 6 videos ocupados",
+  "fecha": "2026-11-24T21:43:32.291Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
