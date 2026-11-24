@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261123-1857-90b5",
-  "sha256": "1b6b1aeac9451689fce382e16fd55b763cf84ce8c86314a398dce6d520c4c13c",
-  "nota": "salida 1563: boton Usar esta direccion no hacia nada con clientes con comillas en el nombre",
-  "fecha": "2026-11-24T00:57:16.737Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261124-0733-edbf",
+  "sha256": "e4215eacaffed51d08bb81bef7acab5c63aacbb670fd9de54b8a38a0040bea5f",
+  "nota": "Cotizador: pestaña Lista bolsa + impresion alimentada por el motor del Cerebro (issue #6, solo web)",
+  "fecha": "2026-11-24T13:33:47.448Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
