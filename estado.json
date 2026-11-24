@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261124-1543-c7e9",
-  "sha256": "2d010fd7c37ea662aa49c9ee339fa7b2dfcead202975726f8d87fc7ee0353e15",
-  "nota": "Muralla de camaras (ticket 57): el mosaico ensena la foto y reintenta el video si la IA tiene sus 6 videos ocupados",
-  "fecha": "2026-11-24T21:43:32.291Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261124-1717-b075",
+  "sha256": "98a322a5471a3da2409fe70e11fab95dbc7a600564b893e76946c158b1b938c1",
+  "nota": "Lista bolsa + impresion: modelo apagado se oculta + signo de pesos (issue #6, solo web)",
+  "fecha": "2026-11-24T23:17:12.880Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
