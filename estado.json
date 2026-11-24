@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1745-b84e",
-  "sha256": "a8dc15c2301f008a5f657d861b1a493d3123e1b4be9a3e181f97ff9022f1918a",
-  "nota": "Guardia IA camaras etapa 1: ruta /api/inteligencia/frigate/alerta (evento + WhatsApp con foto a Mikey, con tope)",
-  "fecha": "2026-11-24T23:45:10.644Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261124-1747-edec",
+  "sha256": "a1373544de2863345a6d9f8b8939e6cff4ce8a618d13279fa21cffe9245a8dcf",
+  "nota": "Cotizador: pestaña Tela por kilo (tabla simple de 4 pasos que edita los mismos parametros y da el precio por kilo del motor) (issue #6, solo web)",
+  "fecha": "2026-11-24T23:47:18.845Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
