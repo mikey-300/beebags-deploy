@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1453-a764",
-  "sha256": "6e2b3ffd7e27537ca25718c0d87a424955e64da570c1e3caa7c2106a3e099b22",
-  "nota": "camaras: las 2 que giran (PTZ Estampado .3 y PTZ Planta .109) en el catalogo de la IA",
-  "fecha": "2026-11-24T20:53:19.814Z",
+  "paquete": "p-261124-1456-9b58",
+  "sha256": "909a3a1eb79ca4329557c95cb28631ac99ad08b4facae31fcec7d7e00bc4f3b3",
+  "nota": "seguridad: lectura bbseg-ptzarea",
+  "fecha": "2026-11-24T20:56:47.016Z",
   "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
