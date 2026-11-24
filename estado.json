@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1307-2135",
-  "sha256": "32a02997ffb943aa405cea93737e07e67e49937ee62d2ca0f43f199aac0ba2b1",
-  "nota": "RH: pestana Faltas (control de faltas con carta compromiso, reportes por semana/mes/area, sugerencias del reloj)",
-  "fecha": "2026-11-24T19:07:56.961Z",
+  "paquete": "p-261124-1322-4693",
+  "sha256": "f886b8a03d00d7825c43b38a3e8211fd77d2e4ebc0efeb2628b91f8dd4f6ac20",
+  "nota": "seguridad: lectura bbseg-fborrar",
+  "fecha": "2026-11-24T19:22:36.373Z",
   "autor": "MIGUEL",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
