@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1212-5dd8",
-  "sha256": "bbeefc3f4c07ecc6b9fd83835418a74c8e161c94044e51f8866dc9868ae075d1",
-  "nota": "seguridad: lectura bbseg-dc20,bbseg-dc21,bbseg-dc22...",
-  "fecha": "2026-11-24T18:12:07.838Z",
+  "paquete": "p-261124-1214-61fa",
+  "sha256": "81ad13bfdacb2a4358b8e3225eccc3ff7fe499dfceedf5234254e3afb488b57a",
+  "nota": "cerebro (web/cerebro2.html, que es lo que sirve /cerebro.html): app Camaras -> Muralla",
+  "fecha": "2026-11-24T18:14:40.663Z",
   "autor": "MIGUEL",
-  "archivos": 26,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
