@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1747-3a8b",
-  "sha256": "e9fc0c03be0dbf941705336ccb3dc07a4ed617361e632af2b7a04cd910b63623",
-  "nota": "Guardia IA camaras etapa 1: ruta /api/inteligencia/frigate/alerta (evento + WhatsApp con foto a Mikey, con tope)",
-  "fecha": "2026-11-24T23:47:25.142Z",
+  "paquete": "p-261124-1751-4409",
+  "sha256": "326022926f9473810d9c7957875474bc15a8db4006972a3ff26ad710df77db04",
+  "nota": "seguridad: lectura bbseg-waver3",
+  "fecha": "2026-11-24T23:51:30.025Z",
   "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
