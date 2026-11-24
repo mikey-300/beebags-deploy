@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261124-0733-edbf",
-  "sha256": "e4215eacaffed51d08bb81bef7acab5c63aacbb670fd9de54b8a38a0040bea5f",
-  "nota": "Cotizador: pestaña Lista bolsa + impresion alimentada por el motor del Cerebro (issue #6, solo web)",
-  "fecha": "2026-11-24T13:33:47.448Z",
+  "paquete": "p-261124-0941-a8a1",
+  "sha256": "7432160978dc8411976513c906f3c347eaf20880e0764fdbd7aca77638c02919",
+  "nota": "Lista bolsa + impresion: bolsas mas grandes y tabla compacta a la izquierda (issue #6, solo web)",
+  "fecha": "2026-11-24T15:41:09.807Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
