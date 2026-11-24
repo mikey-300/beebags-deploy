@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261124-1004-2c60",
-  "sha256": "bcf991722123cd32b62e0b1d5798cec1b437fdb4a5433556d08c74409426e7ef",
-  "nota": "Lista bolsa + impresion: color por tipo (BN/medio/intenso), escalas de piezas y precio a la izquierda (issue #6, solo web)",
-  "fecha": "2026-11-24T16:04:11.753Z",
-  "autor": "alex",
+  "paquete": "p-261124-1058-6637",
+  "sha256": "3ca611d08f5fae2f4e60552f7bcdf9345fba801b9cb0a00d0ca231e738294e4d",
+  "nota": "camaras: la lista de la muralla muestra lo que detecta la IA (persona, con foto) y las camaras sin senal se ven limpias",
+  "fecha": "2026-11-24T16:58:59.426Z",
+  "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
