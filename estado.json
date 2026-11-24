@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1731-46a2",
-  "sha256": "965ae2325dc6af0d56d6b11eabf60c98c8558ab70e4236e3f0dca49c7e5a9c5c",
-  "nota": "Guardia IA camaras etapa 1: ruta /api/inteligencia/frigate/alerta (evento + WhatsApp con foto a Mikey, con tope)",
-  "fecha": "2026-11-24T23:31:23.652Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261124-1732-d42e",
+  "sha256": "311cccf5d9cb542c191f3f0adafb1bf65cd035b10c12d2b566e30b88ca5fc911",
+  "nota": "Lista bolsa + impresion: precio de la tela por kilo en cada boton de color (issue #6, solo web)",
+  "fecha": "2026-11-24T23:32:44.821Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
