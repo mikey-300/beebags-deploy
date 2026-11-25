@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261125-1047-545e",
-  "sha256": "6c220abff0dd988a225af5a55970c27d36f16246ea83bed163f528f92ca39edc",
-  "nota": "seguridad: lectura bbseg-vercam",
-  "fecha": "2026-11-25T16:47:40.754Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261125-1049-7ef2",
+  "sha256": "8b1bc0b488e1de5de31549abee4f530ea71b1f19a921ba78674dbcd8d50310ee",
+  "nota": "seguridad: lectura bbseg-candado",
+  "fecha": "2026-11-25T16:49:29.711Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
