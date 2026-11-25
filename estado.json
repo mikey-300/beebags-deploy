@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1630-7da8",
-  "sha256": "f7d9a0b8315f510043e45bbe01d3671be458a608367c0319fc1b83634bd3ad9b",
-  "nota": "RH Asistencia detalle: Descuento de horas (+ resta / - suma), Total ajustado y Motivo del ajuste por persona y semana (tabla rh.ajuste_horas_semana + bitácora; también en el Excel). Sobre p-261125-1627 (incluye sus cambios). Pedido de Mikey 25 nov, OK de reinicio",
-  "fecha": "2026-11-25T22:30:44.846Z",
-  "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "paquete": "p-261125-1632-e255",
+  "sha256": "5ccd5a989dc41ed8ca445c62c8120a36adbc72fbae7da3eab6c2893f0411f5b2",
+  "nota": "seguridad: lectura bbseg-hrbit",
+  "fecha": "2026-11-25T22:32:41.358Z",
+  "autor": "MIGUEL",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
