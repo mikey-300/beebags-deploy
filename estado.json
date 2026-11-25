@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0852-34f2",
-  "sha256": "31e6b8ffe58d02d7869a6ea9f53cd796112641e5984f913dd12d25027892e63f",
-  "nota": "Lista bolsa + impresion: empaque/dobladillo/flete = lo capturado en Cotizar bolsa (cuadra con su precio); PDF y vista cliente sin diferencias ni columna cuanto sube (issue #6, solo web)",
-  "fecha": "2026-11-25T14:52:50.034Z",
+  "paquete": "p-261125-0856-92b4",
+  "sha256": "37e4d499a817c3df9e417508fe3acbebdba28297fc7dc7292fe20c4d54ff9321",
+  "nota": "Lista bolsa + impresion: lee el borrador de Cotizar bolsa (cz_borrador) y boton Igualar con Cotizar bolsa (issue #6, solo web)",
+  "fecha": "2026-11-25T14:56:36.967Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
