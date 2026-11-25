@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261125-1627-7a4b",
-  "sha256": "7c130092f4b88cc86f15580c2d23f512f1fca499c2e61478a4282f2dbc673b54",
-  "nota": "RH horas: Asistencia suma igual que Nomina; horas de RH reemplazan al reloj; extras por semana sobre turno",
-  "fecha": "2026-11-25T22:27:29.133Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261125-1630-7da8",
+  "sha256": "f7d9a0b8315f510043e45bbe01d3671be458a608367c0319fc1b83634bd3ad9b",
+  "nota": "RH Asistencia detalle: Descuento de horas (+ resta / - suma), Total ajustado y Motivo del ajuste por persona y semana (tabla rh.ajuste_horas_semana + bitácora; también en el Excel). Sobre p-261125-1627 (incluye sus cambios). Pedido de Mikey 25 nov, OK de reinicio",
+  "fecha": "2026-11-25T22:30:44.846Z",
+  "autor": "alex",
   "archivos": 3,
   "reinicio": true,
   "pausado": false
