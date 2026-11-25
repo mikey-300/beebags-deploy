@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1410-3fa8",
-  "sha256": "393c73eb56c94a8fbc4efa143d31d7e160b4b95b0f95a7adee0b56b019b37ccf",
-  "nota": "Reportes: botón Todas las semanas (tela y bolsas) + llave por mes centrada",
-  "fecha": "2026-11-25T20:10:36.881Z",
+  "paquete": "p-261125-1417-1a41",
+  "sha256": "eb197e8e2351fbe42cd1ea90068a79d68b9277a1cd89e6b8ee8e0808fe0940bf",
+  "nota": "Reportes: rayas y franjas por mes en la gráfica semanal (qué semana cae en qué mes)",
+  "fecha": "2026-11-25T20:17:04.906Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
