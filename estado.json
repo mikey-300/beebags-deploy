@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261125-1029-7194",
-  "sha256": "9252d88fe5ee4fa497464089132a9986737d2c37626d5b4ee7de3aa2c31a3c1d",
-  "nota": "App Lista Campana: se actualiza sola (al abrir, al volver y cada 5 min si los precios tienen mas de 30 min); si falla conserva los guardados (issue #6, solo web)",
-  "fecha": "2026-11-25T16:29:48.140Z",
-  "autor": "alex",
+  "paquete": "p-261125-1043-18e3",
+  "sha256": "567653a27afb7190f1b345e78b61c53a9f5d7ca0ee63c18cd79451ea6d018051",
+  "nota": "seguridad: lectura bbseg-omar",
+  "fecha": "2026-11-25T16:43:55.038Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
