@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1109-4413",
-  "sha256": "53cc30e121e7eb3ed60280b2bc685321893b5d52f0fd0f82bdfb8bc4ce6ae698",
-  "nota": "entregado: un pedido de tela general CANCELADO por estado ya no regresa a PENDIENTE (caso 699 de Sara)",
-  "fecha": "2026-11-25T17:09:00.101Z",
-  "autor": "alex_",
+  "paquete": "p-261125-1110-c38b",
+  "sha256": "e2376b7a8a3a149fc8cf2e268956234dc0a023cea386beab30ae394fb763dea2",
+  "nota": "Muralla: rejilla en vivo max 10 y 3 por grabador (ticket 67 senal inestable)",
+  "fecha": "2026-11-25T17:10:44.543Z",
+  "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
