@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1557-b30c",
-  "sha256": "3b911edfe57ad13dbe00e232053f9624c4f789ac1f9cf630e5937674f57153a6",
-  "nota": "RH faltas: alerta al llegar a 3 faltas en 30 dias (NI-RH-006)",
-  "fecha": "2026-11-25T21:57:21.565Z",
+  "paquete": "p-261125-1557-0aeb",
+  "sha256": "7a4f00f59e626ea55a96ec468619957be145f6db69751bf0107805dfb32679cb",
+  "nota": "seguridad: lectura bbseg-dt85p0,bbseg-dt85p1,bbseg-dt85p2...",
+  "fecha": "2026-11-25T21:57:40.934Z",
   "autor": "MIGUEL",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 17,
+  "reinicio": false,
   "pausado": false
 }
