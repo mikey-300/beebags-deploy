@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1549-faa5",
-  "sha256": "5bb395e672a4292393c9f485e76437bd46c929f0020db827fd1a05267774641e",
-  "nota": "seguridad: lectura bbseg-dorgapi0,bbseg-dorgapi1,bbseg-dorghtml0...",
-  "fecha": "2026-11-25T21:49:02.012Z",
+  "paquete": "p-261125-1552-923e",
+  "sha256": "9fe4464884d2ffbe9f25856c949df86ddfd15d5f98ece23e4d0b2547cac52eaf",
+  "nota": "RH: anexo del organigrama (personas por area y quien ocupa cada puesto, desde el padron) + Excel",
+  "fecha": "2026-11-25T21:52:54.463Z",
   "autor": "MIGUEL",
-  "archivos": 10,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
