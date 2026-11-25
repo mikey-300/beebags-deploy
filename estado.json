@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1651-8abe",
-  "sha256": "1ec3909564f523e77d55fa6218cddc089353809e1c81a7c259da5e084ececc24",
-  "nota": "seguridad: lectura bbseg-t89c",
-  "fecha": "2026-11-25T22:51:21.076Z",
+  "paquete": "p-261125-1653-c234",
+  "sha256": "0f3f7815890715ed7c289b65859cea2e2fa442f590fb2121c62c12d5bf7abf56",
+  "nota": "seguridad: lectura bbseg-t89d",
+  "fecha": "2026-11-25T22:53:25.004Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
