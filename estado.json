@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261125-1110-c38b",
-  "sha256": "e2376b7a8a3a149fc8cf2e268956234dc0a023cea386beab30ae394fb763dea2",
-  "nota": "Muralla: rejilla en vivo max 10 y 3 por grabador (ticket 67 senal inestable)",
-  "fecha": "2026-11-25T17:10:44.543Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261125-1113-e4ac",
+  "sha256": "c3fedc2fc83c950886258af1adccf6ef3d0551c57f802d2e281a555ce148911c",
+  "nota": "seguridad: lectura bbseg-vueltasync",
+  "fecha": "2026-11-25T17:13:01.224Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
