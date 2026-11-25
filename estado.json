@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1822-641d",
-  "sha256": "6ec38701bda5019c78eb1edee81c31ec289c7b610b204afd92c08699bb3f955d",
-  "nota": "seguridad: lectura bbseg-verwall",
-  "fecha": "2026-11-25T00:22:15.019Z",
+  "paquete": "p-261124-1825-2cf9",
+  "sha256": "1c83dae3b276f26e9e849304b9d97bc5c55a0343ce9b26658650dab35e14b5de",
+  "nota": "IA camaras etapas 2-4: puente /api/inteligencia/frigate/ia/* (lista blanca), alertas montacargas/resumen, panel /ia-camaras.html y boton en la Muralla",
+  "fecha": "2026-11-25T00:25:06.777Z",
   "autor": "MIGUEL",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
