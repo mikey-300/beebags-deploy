@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1014-984e",
-  "sha256": "6f292bf8a73a68df9e08441cb392203f8175bfd0ed0a07deafadd31cc8ddd22c",
-  "nota": "App Lista Campana para celular (PWA sin conexion + Actualizar desde el Cerebro) + lista: redibuja al guardar utilidad/comision de campana (issue #6, solo web)",
-  "fecha": "2026-11-25T16:14:32.964Z",
+  "paquete": "p-261125-1022-7d31",
+  "sha256": "300739b43abc0b1efbc996fb75e57ba86aab0609dc2def3fc433807a5d263fe8",
+  "nota": "Lista bolsa + impresion: boton App celular con QR y direccion de la app Lista Campana (issue #6, solo web)",
+  "fecha": "2026-11-25T16:22:29.801Z",
   "autor": "alex",
-  "archivos": 7,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
