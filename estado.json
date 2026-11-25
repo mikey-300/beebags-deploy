@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0856-92b4",
-  "sha256": "37e4d499a817c3df9e417508fe3acbebdba28297fc7dc7292fe20c4d54ff9321",
-  "nota": "Lista bolsa + impresion: lee el borrador de Cotizar bolsa (cz_borrador) y boton Igualar con Cotizar bolsa (issue #6, solo web)",
-  "fecha": "2026-11-25T14:56:36.967Z",
+  "paquete": "p-261125-0905-c59c",
+  "sha256": "96f9f19b656ffaadbf35f8a93f039341d0db4033cff50ee449f8351acdd2152f",
+  "nota": "Lista bolsa + impresion: toma el empaque de lo que esta en pantalla en Cotizar bolsa (czF), no del borrador guardado (issue #6, solo web)",
+  "fecha": "2026-11-25T15:05:02.411Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
