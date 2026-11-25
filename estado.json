@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1303-0fa1",
-  "sha256": "ea93837dae6a225429962f88f687dc0dcf2ad7cf4e745e31b61e8d117d79c180",
-  "nota": "Muralla: rejilla con fotos seguidas (no agota conexiones; la ventana grande ya no se queda en Conectando)",
-  "fecha": "2026-11-25T19:03:04.596Z",
+  "paquete": "p-261125-1314-f510",
+  "sha256": "afa2446dc62b89f43619640420ef8eed4661d64c430f92a85e68e587086b948b",
+  "nota": "Muralla: indicadores siempre a la vista arriba de la rejilla y estadisticas de cada camara en su ventana",
+  "fecha": "2026-11-25T19:14:04.158Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
