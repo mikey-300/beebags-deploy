@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1201-2781",
-  "sha256": "fffb44b954fa05c6dc9b5ca06db5f5a0be08d2c35d2611d3f8554aa85e8235e2",
-  "nota": "Camaras: el hola solo se acepta si la IA contesta (MIKEYPC mandaba hola sin IA: videos 502/negro), rejilla suelta videos al abrir en grande y max 4 en HTTP/1.1",
-  "fecha": "2026-11-25T18:01:59.763Z",
+  "paquete": "p-261125-1219-f341",
+  "sha256": "7e2b1ccd9d2960249a9b75e4ea36e0b0c90ab208f85b6f10c3f57e4a03a686fd",
+  "nota": "Muralla: Estadisticas (gente por hora, movimientos, horarios, por area y camara) y control de camaras que giran (ticket 71)",
+  "fecha": "2026-11-25T18:19:30.100Z",
   "autor": "MIGUEL",
   "archivos": 2,
   "reinicio": true,
