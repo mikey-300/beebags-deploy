@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1124-2371",
-  "sha256": "841fac12a2aca5e67f530bf68ce8d11789ffb05b3cb9c062c38e4e1d99536795",
-  "nota": "seguridad: lectura bbseg-vueltasync",
-  "fecha": "2026-11-25T17:24:10.272Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261125-1201-2781",
+  "sha256": "fffb44b954fa05c6dc9b5ca06db5f5a0be08d2c35d2611d3f8554aa85e8235e2",
+  "nota": "Camaras: el hola solo se acepta si la IA contesta (MIKEYPC mandaba hola sin IA: videos 502/negro), rejilla suelta videos al abrir en grande y max 4 en HTTP/1.1",
+  "fecha": "2026-11-25T18:01:59.763Z",
+  "autor": "MIGUEL",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
