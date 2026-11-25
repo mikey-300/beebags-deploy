@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1258-caea",
-  "sha256": "f59baa491e56ac4da3870f4e144168c12fa65a692c0cadf413828527ffb968e0",
-  "nota": "Camaras: proxy latest pasa lite (rejilla con fotos seguidas en vez de video continuo)",
-  "fecha": "2026-11-25T18:58:18.181Z",
-  "autor": "MIGUEL",
+  "paquete": "p-261125-1259-473a",
+  "sha256": "96d2760fd521c9b3baad9f5979fef85fcd2637da443010d43470f090ce1c244a",
+  "nota": "Reportes: arranca en el trimestre en curso (antes el ultimo cerrado; la nomina se veia solo hasta sep). Pedido de Mikey 25 nov (solo web)",
+  "fecha": "2026-11-25T18:59:14.938Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
