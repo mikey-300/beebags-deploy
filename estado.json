@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1712-e27e",
-  "sha256": "b0bfa43a3bde37305886ab4478fcc8406b9862bef68f8204c3ab6264379eaf5a",
-  "nota": "RH incidencias: Permisos ya no sale en blanco si la seccion trae otra cosa; lista de incidencias espera a Permisos",
-  "fecha": "2026-11-25T23:12:34.576Z",
+  "paquete": "p-261125-1713-56d9",
+  "sha256": "3837dcf5d8069a93aa53eb6368df80e0938e8e8ae48531c357bf61ea30b48e0a",
+  "nota": "RH: dias festivos oficiales (LFT art 74) no cuentan como falta - ticket 82",
+  "fecha": "2026-11-25T23:13:12.169Z",
   "autor": "MIGUEL",
-  "archivos": 3,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
