@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0955-28cd",
-  "sha256": "cda8576e60294dddf680764b1fa795c980baf2832b5ba213a545ae2fd82f9a70",
-  "nota": "Lista bolsa + impresion: vista completa con columna Sin impresion (bolsa lisa) antes de las tecnicas (issue #6, solo web)",
-  "fecha": "2026-11-25T15:55:06.802Z",
+  "paquete": "p-261125-0956-c553",
+  "sha256": "051110506b91367a22527700b756c75fadbc07acf81cf872398094d490c2f585",
+  "nota": "Lista bolsa + impresion: separacion por grupo de color (raya, fondo y barra) + columna Sin impresion en vista completa (issue #6, solo web)",
+  "fecha": "2026-11-25T15:56:45.435Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
