@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1056-a6ff",
-  "sha256": "2330377bcc3ff0b7fae326f7b170635eb40d51da7bc1d77e5844349658f83272",
-  "nota": "bajas: a quien se da de baja se le quita el celular confirmado (caso Omar)",
-  "fecha": "2026-11-25T16:56:07.459Z",
+  "paquete": "p-261125-1057-b8a6",
+  "sha256": "19fa1eeb67a7df60e9c157140e7dfdb1866c678044f94fdf49a45e97edf24207",
+  "nota": "seguridad: lectura bbseg-verifomar",
+  "fecha": "2026-11-25T16:57:32.784Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
