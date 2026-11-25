@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1417-1a41",
-  "sha256": "eb197e8e2351fbe42cd1ea90068a79d68b9277a1cd89e6b8ee8e0808fe0940bf",
-  "nota": "Reportes: rayas y franjas por mes en la gráfica semanal (qué semana cae en qué mes)",
-  "fecha": "2026-11-25T20:17:04.906Z",
-  "autor": "alex",
-  "archivos": 1,
+  "paquete": "p-261125-1419-57f1",
+  "sha256": "e325a9e2f711953d30f0ec61f5c489cc8630b2bb23db8ce7e65860f2543c8cb7",
+  "nota": "seguridad: lectura bbseg-drfaltas0,bbseg-drfaltas1,bbseg-drapi0...",
+  "fecha": "2026-11-25T20:19:38.902Z",
+  "autor": "MIGUEL",
+  "archivos": 17,
   "reinicio": false,
   "pausado": false
 }
