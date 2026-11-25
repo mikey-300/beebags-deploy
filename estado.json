@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1347-511f",
-  "sha256": "65d731b9618e214ca75fecfb6fd20651b6b4bae195ddd357b512d57ac4215b01",
-  "nota": "Reportes: en Periodo Semana, opción 'Todas las semanas del año' (vista semana por semana)",
-  "fecha": "2026-11-25T19:47:33.869Z",
+  "paquete": "p-261125-1352-665c",
+  "sha256": "b44ff93e53950695193401f102710269bcef6d4506eb1b1797b38102977937eb",
+  "nota": "Reportes: total de cada barra en vertical cuando hay muchas barras (vista por semana)",
+  "fecha": "2026-11-25T19:52:34.823Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
