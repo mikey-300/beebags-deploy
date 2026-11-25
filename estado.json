@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1219-f341",
-  "sha256": "7e2b1ccd9d2960249a9b75e4ea36e0b0c90ab208f85b6f10c3f57e4a03a686fd",
-  "nota": "Muralla: Estadisticas (gente por hora, movimientos, horarios, por area y camara) y control de camaras que giran (ticket 71)",
-  "fecha": "2026-11-25T18:19:30.100Z",
+  "paquete": "p-261125-1225-84d4",
+  "sha256": "10495e38d4eaf47eaee1e5849b40f1ef2702c093f6575ffcd93baed9e69ce724",
+  "nota": "Muralla estadisticas: picar camara de la tabla abre aunque no este en la rejilla",
+  "fecha": "2026-11-25T18:25:00.557Z",
   "autor": "MIGUEL",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
