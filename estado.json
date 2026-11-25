@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1503-775e",
-  "sha256": "53c7d2778cb16881bb142071aa64e2cc9b14db02eaca6d015b5a27c29f6b40fb",
-  "nota": "RH: rotacion (bajas con semaforo legal), acuerdos de la minuta, reporte del martes y faltas con tipo/motivo/turno/lider/descuento",
-  "fecha": "2026-11-25T21:03:09.579Z",
+  "paquete": "p-261125-1507-c39c",
+  "sha256": "802eb0822baa91a12507dde732fe2857babeb26ebc17fb0d93a98f4f044dc323",
+  "nota": "seguridad: lectura bbseg-drv20,bbseg-drv21,bbseg-drv22...",
+  "fecha": "2026-11-25T21:07:33.997Z",
   "autor": "MIGUEL",
   "archivos": 6,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
