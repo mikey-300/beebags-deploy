@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1611-4a8f",
-  "sha256": "471e351fc01d9c472bb577daf8a6179347dc6ad7b9f3d9116b79362f43a23913",
-  "nota": "RH biblioteca: boton y margen",
-  "fecha": "2026-11-25T22:11:32.083Z",
+  "paquete": "p-261125-1615-36f0",
+  "sha256": "72ef4beca7f4851f639a4b5eac0b78570189460b0529503b529eec16084224c5",
+  "nota": "seguridad: lectura bbseg-rhfer",
+  "fecha": "2026-11-25T22:15:27.571Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
