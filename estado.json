@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1405-ef04",
-  "sha256": "f4eb5c5cfb9a16833e7f1efbf9899ce72463d9596ee3da067d48d31d9cdcbcb1",
-  "nota": "Reportes: rollos y bolsas por semana en Año/Semestre por default + llave de producción por mes arriba de la gráfica; Agrupar 'Por mes' para volver a lo de antes",
-  "fecha": "2026-11-25T20:05:22.347Z",
+  "paquete": "p-261125-1409-a89f",
+  "sha256": "a381d423281c45b80129d75addbf1e3e406a00c5fb645921bf9b9d6492201bb3",
+  "nota": "Reportes: botón '🗓️ Todas las semanas' en tela y bolsas (un click = año completo por semana)",
+  "fecha": "2026-11-25T20:09:17.577Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
