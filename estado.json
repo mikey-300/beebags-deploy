@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1335-259c",
-  "sha256": "ee268870e4824318cf8a3984ef1e930ecf3d8762c615f39886f2daeb27234b39",
-  "nota": "Camaras HOY: cifra grande, lo raro con video, personas recurrentes, fotos por hora; tarjetas que se tocan",
-  "fecha": "2026-11-25T19:35:13.247Z",
-  "autor": "MIGUEL",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261125-1341-0316",
+  "sha256": "cbc9a394eeb1aabe9a319fac0dd7ebef845e2f20bc4fa556f3526e1cbc074be3",
+  "nota": "seguridad: lectura bbseg-fac",
+  "fecha": "2026-11-25T19:41:38.545Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
