@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1606-a4c2",
-  "sha256": "12d67e15a7b6437622cf63b59b63a4e670e616c8dd398d35c79c907d51e0e229",
-  "nota": "seguridad: lectura bbseg-dbibapi0,bbseg-dbibapi1,bbseg-dbibapi2...",
-  "fecha": "2026-11-25T22:06:36.304Z",
+  "paquete": "p-261125-1609-884f",
+  "sha256": "86a41c51f598828398a73546960f0dd80b3b0e203a2421498bf8cd2359bf36af",
+  "nota": "RH: Biblioteca de RH en Documentos (perfiles de puesto y formatos)",
+  "fecha": "2026-11-25T22:09:21.245Z",
   "autor": "MIGUEL",
-  "archivos": 17,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
