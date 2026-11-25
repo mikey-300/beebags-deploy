@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1633-e764",
-  "sha256": "6bd74bd0640ee3f97cc41822e3c4f4c0a2a716c680e0df3b8c855c543dc64b50",
-  "nota": "seguridad: lectura bbseg-dhv2b0,bbseg-dhv2b1,bbseg-dhv2b2...",
-  "fecha": "2026-11-25T22:33:19.012Z",
-  "autor": "MIGUEL",
-  "archivos": 9,
+  "paquete": "p-261125-1638-810d",
+  "sha256": "0b63c5622b766d923ad1ecd82b4676595b0125adef9c0088b7946c2c81d1bbf5",
+  "nota": "RH Asistencia: ajuste de horas con signo directo (5 suma, -5 resta) — solo web",
+  "fecha": "2026-11-25T22:38:58.061Z",
+  "autor": "alex",
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
