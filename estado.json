@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1409-a89f",
-  "sha256": "a381d423281c45b80129d75addbf1e3e406a00c5fb645921bf9b9d6492201bb3",
-  "nota": "Reportes: botón '🗓️ Todas las semanas' en tela y bolsas (un click = año completo por semana)",
-  "fecha": "2026-11-25T20:09:17.577Z",
+  "paquete": "p-261125-1410-3fa8",
+  "sha256": "393c73eb56c94a8fbc4efa143d31d7e160b4b95b0f95a7adee0b56b019b37ccf",
+  "nota": "Reportes: botón Todas las semanas (tela y bolsas) + llave por mes centrada",
+  "fecha": "2026-11-25T20:10:36.881Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
