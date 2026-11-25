@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261124-1825-2cf9",
-  "sha256": "1c83dae3b276f26e9e849304b9d97bc5c55a0343ce9b26658650dab35e14b5de",
-  "nota": "IA camaras etapas 2-4: puente /api/inteligencia/frigate/ia/* (lista blanca), alertas montacargas/resumen, panel /ia-camaras.html y boton en la Muralla",
-  "fecha": "2026-11-25T00:25:06.777Z",
-  "autor": "MIGUEL",
-  "archivos": 3,
-  "reinicio": true,
+  "paquete": "p-261125-0842-cc16",
+  "sha256": "5d0d3ff382d062a9d40fd17b92b1332944854ea92320c577fa0fcb28e7929501",
+  "nota": "Lista bolsa + impresion = misma base que Cotizar bolsa (dobladillo/asa/empaque/destino de Nueva + defaults), volumen apagado, solo utilidad y comision de campana propias (issue #6, solo web)",
+  "fecha": "2026-11-25T14:42:47.570Z",
+  "autor": "alex",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
