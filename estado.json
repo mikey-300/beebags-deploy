@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-1342-93c2",
-  "sha256": "5f6a002cf0dc2e7bf379a6da6962a6edd3caaa17f40bc8b5efc90c6749486e67",
-  "nota": "Reportes: selector Agrupar 'Semana por semana' para año/semestre (une tramos de 13 semanas en la página; sin tocar server)",
-  "fecha": "2026-11-25T19:42:21.126Z",
+  "paquete": "p-261125-1347-511f",
+  "sha256": "65d731b9618e214ca75fecfb6fd20651b6b4bae195ddd357b512d57ac4215b01",
+  "nota": "Reportes: en Periodo Semana, opción 'Todas las semanas del año' (vista semana por semana)",
+  "fecha": "2026-11-25T19:47:33.869Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
