@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1022-7d31",
-  "sha256": "300739b43abc0b1efbc996fb75e57ba86aab0609dc2def3fc433807a5d263fe8",
-  "nota": "Lista bolsa + impresion: boton App celular con QR y direccion de la app Lista Campana (issue #6, solo web)",
-  "fecha": "2026-11-25T16:22:29.801Z",
+  "paquete": "p-261125-1029-7194",
+  "sha256": "9252d88fe5ee4fa497464089132a9986737d2c37626d5b4ee7de3aa2c31a3c1d",
+  "nota": "App Lista Campana: se actualiza sola (al abrir, al volver y cada 5 min si los precios tienen mas de 30 min); si falla conserva los guardados (issue #6, solo web)",
+  "fecha": "2026-11-25T16:29:48.140Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
