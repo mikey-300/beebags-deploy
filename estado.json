@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1623-27fd",
-  "sha256": "54542e6bf5d89bc84d06f8756e20da9350ca92c91e9d19ea1dd0aebcf625a81f",
-  "nota": "seguridad: lectura bbseg-dhpanel20,bbseg-dhpanel21,bbseg-dhpanel22...",
-  "fecha": "2026-11-25T22:23:26.911Z",
+  "paquete": "p-261125-1627-7a4b",
+  "sha256": "7c130092f4b88cc86f15580c2d23f512f1fca499c2e61478a4282f2dbc673b54",
+  "nota": "RH horas: Asistencia suma igual que Nomina; horas de RH reemplazan al reloj; extras por semana sobre turno",
+  "fecha": "2026-11-25T22:27:29.133Z",
   "autor": "MIGUEL",
-  "archivos": 17,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
