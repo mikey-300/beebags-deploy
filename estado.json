@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261125-1352-665c",
-  "sha256": "b44ff93e53950695193401f102710269bcef6d4506eb1b1797b38102977937eb",
-  "nota": "Reportes: total de cada barra en vertical cuando hay muchas barras (vista por semana)",
-  "fecha": "2026-11-25T19:52:34.823Z",
-  "autor": "alex",
+  "paquete": "p-261125-1357-2be3",
+  "sha256": "ede912b2f2c68b923a98cd378f7cefa6e29761331cb8af0c593840b9f492a4a5",
+  "nota": "seguridad: lectura bbseg-fac",
+  "fecha": "2026-11-25T19:57:36.802Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
