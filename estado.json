@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0937-e132",
-  "sha256": "4bd253b93f17f293e101442e2eb59f4815af3db13faf633ac05f233d1638a1e9",
-  "nota": "Lista bolsa + impresion: desglose de tela en kg con 6 decimales y gramaje, como Cotizar bolsa (issue #6, solo web)",
-  "fecha": "2026-11-25T15:37:06.050Z",
+  "paquete": "p-261125-0945-5f69",
+  "sha256": "2f631bd4034e7b50104984463ccdd8902eda6f938b2f0dd7d205fd46fe0bcf05",
+  "nota": "Lista bolsa + impresion: colores siempre en orden blanco y negro, color medio, color intenso (issue #6, solo web)",
+  "fecha": "2026-11-25T15:45:06.287Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
