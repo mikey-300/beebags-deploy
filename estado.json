@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261125-1524-63a5",
-  "sha256": "461d181b721d0f76e1e68ef313f204269c5c7605c2b05261858334c195345c4e",
-  "nota": "RH ticket 81: no hay faltas antes del ingreso ni despues de la baja (estado fuera); la nomina no paga esos dias pero ya no los llama faltas",
-  "fecha": "2026-11-25T21:24:19.769Z",
+  "paquete": "p-261125-1531-2971",
+  "sha256": "3f08ae83d862de12c5a3d207eae791a15f3222fba60e5224bc339a6cbfe30ceb",
+  "nota": "seguridad: lectura bbseg-rhdeptos",
+  "fecha": "2026-11-25T21:31:06.756Z",
   "autor": "MIGUEL",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
