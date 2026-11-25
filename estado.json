@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0911-79f6",
-  "sha256": "06df0336ed4a0b92723e446bddc0037e9e2bd36941cc06d3ddc7527928779781",
-  "nota": "Lista bolsa + impresion: desglose del precio final como recibo (costo por concepto, recargo, utilidad, comision, barra) (issue #6, solo web)",
-  "fecha": "2026-11-25T15:11:16.624Z",
+  "paquete": "p-261125-0920-0b75",
+  "sha256": "9c1eb33bbfc5acf75692f04889c8472fb571ec3c906d0cf28adbf4f1ffe5a550",
+  "nota": "Lista bolsa + impresion: desglose separa tela del cuerpo y de las asas (merma ya incluida en los gramos) (issue #6, solo web)",
+  "fecha": "2026-11-25T15:20:17.299Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
