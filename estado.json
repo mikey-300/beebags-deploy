@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261125-0905-c59c",
-  "sha256": "96f9f19b656ffaadbf35f8a93f039341d0db4033cff50ee449f8351acdd2152f",
-  "nota": "Lista bolsa + impresion: toma el empaque de lo que esta en pantalla en Cotizar bolsa (czF), no del borrador guardado (issue #6, solo web)",
-  "fecha": "2026-11-25T15:05:02.411Z",
+  "paquete": "p-261125-0911-79f6",
+  "sha256": "06df0336ed4a0b92723e446bddc0037e9e2bd36941cc06d3ddc7527928779781",
+  "nota": "Lista bolsa + impresion: desglose del precio final como recibo (costo por concepto, recargo, utilidad, comision, barra) (issue #6, solo web)",
+  "fecha": "2026-11-25T15:11:16.624Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
