@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1215-9820",
-  "sha256": "4fec9d478731dfe4c1b5e30f6b1c6242d64f98668dc98e2c9cf96026705781e6",
-  "nota": "Cotizador › Tela por kilo: la casilla 'sumarlo' del flete repinta al momento y Entregado ya no suma el flete si está apagado (solo web)",
-  "fecha": "2026-11-26T18:15:59.501Z",
+  "paquete": "p-261126-1220-c22b",
+  "sha256": "59bd84aabcb1653d9ce229c3756600e19d68bc5ce5b090a5fcfeb2fd47125707",
+  "nota": "Cotizador › Tela por kilo: tipo de cambio de una fecha (calendario, consulta el del día y 'Usar este' lo guarda en p_tc) — solo web",
+  "fecha": "2026-11-26T18:20:24.268Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
