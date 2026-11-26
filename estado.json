@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1511-e19a",
-  "sha256": "e12bc6a421aa0691f6249a981aea284d4226a6e885ad8efb6f21017b76378865",
-  "nota": "Costeo tela 3.1: atajo A con vista previa en vivo, Enter y validación 0-99 % (Alex 26 nov)",
-  "fecha": "2026-11-26T21:11:03.059Z",
+  "paquete": "p-261126-1725-15a9",
+  "sha256": "c7dbd243699d975379b9d6e53b0d8600ff5cc1efc7bef2af1e9b89b70b234ddd",
+  "nota": "Costeo tela 3.1: boton Calcular contra el mercado en la fila de utilidad (Alex 26 nov)",
+  "fecha": "2026-11-26T23:25:25.564Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
