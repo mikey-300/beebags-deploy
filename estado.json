@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1504-c7eb",
-  "sha256": "e957799ce740b6da66b977e8fb8b8fe3795729b58c8d7fba9e0f9537a27500d6",
-  "nota": "Costeo tela: carbonato en tabla de recetas 2.2 + precio del mercado arriba de la 3.1 (Alex 26 nov)",
-  "fecha": "2026-11-26T21:04:55.954Z",
+  "paquete": "p-261126-1511-e19a",
+  "sha256": "e12bc6a421aa0691f6249a981aea284d4226a6e885ad8efb6f21017b76378865",
+  "nota": "Costeo tela 3.1: atajo A con vista previa en vivo, Enter y validación 0-99 % (Alex 26 nov)",
+  "fecha": "2026-11-26T21:11:03.059Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
