@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261126-1316-b937",
-  "sha256": "2e3e8039fccc0b9b6231c758e512aff6ea7787c592b70320db81f95c53da9d3d",
-  "nota": "Carbonato en la mezcla: nuevo interruptor p_cal_on (todas las recetas y pestañas; Costeo tela y Tela por kilo con su botón) + RH Excel: columna Ajuste de horas con el signo de pantalla. OK de Mikey 26 nov",
-  "fecha": "2026-11-26T19:16:37.066Z",
+  "paquete": "p-261126-1322-c444",
+  "sha256": "12664b0afc328b7cb72c64d2dd90fb68155f797726dd7942b826caf2b8ebda4c",
+  "nota": "Costeo tela: Gastos·Nómina·Áreas pasa a bloque 1 arriba; Parámetros generales a bloque 2 con 3.1 a su derecha (pedido Alex 26 nov)",
+  "fecha": "2026-11-26T19:22:57.656Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
