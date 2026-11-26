@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1220-c22b",
-  "sha256": "59bd84aabcb1653d9ce229c3756600e19d68bc5ce5b090a5fcfeb2fd47125707",
-  "nota": "Cotizador › Tela por kilo: tipo de cambio de una fecha (calendario, consulta el del día y 'Usar este' lo guarda en p_tc) — solo web",
-  "fecha": "2026-11-26T18:20:24.268Z",
+  "paquete": "p-261126-1244-c171",
+  "sha256": "f39054dd16c67cdebe994cf028cfd3747cc3250117c97b413ded2bcd69ea444c",
+  "nota": "Cotizador › Tela por kilo: siempre repinta los totales después de guardar (aunque el cursor esté en otra casilla) — solo web",
+  "fecha": "2026-11-26T18:44:06.073Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
