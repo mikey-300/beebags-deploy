@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1725-15a9",
-  "sha256": "c7dbd243699d975379b9d6e53b0d8600ff5cc1efc7bef2af1e9b89b70b234ddd",
-  "nota": "Costeo tela 3.1: boton Calcular contra el mercado en la fila de utilidad (Alex 26 nov)",
-  "fecha": "2026-11-26T23:25:25.564Z",
+  "paquete": "p-261126-1730-371c",
+  "sha256": "70b04519a0081ed52cfd4b6ec1fb28d19d9f9af4653c1ef0727a69ff2f942f1e",
+  "nota": "Costeo tela 2.1: apagador de flete visible (Alex 26 nov)",
+  "fecha": "2026-11-26T23:30:37.668Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
