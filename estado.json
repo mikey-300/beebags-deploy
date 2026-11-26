@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1338-e306",
-  "sha256": "b1f2edc879150a30297db4f5533f7f67f3a9533cf20bf755ab34d4bd8ebdb32e",
-  "nota": "Costeo tela: 4 tarjetas de la lista en vertical a la derecha de la tabla 4.1 (pedido Alex 26 nov)",
-  "fecha": "2026-11-26T19:38:08.269Z",
+  "paquete": "p-261126-1349-0e9a",
+  "sha256": "ab26830ff65e5f5e44f67fd1ad721e1e814c8dcefb55db8a3fb593e580226e64",
+  "nota": "Costeo tela 3.1: Ajustar sola con costo fresco + aviso de lo más abajo del mercado sin perder (Alex 26 nov)",
+  "fecha": "2026-11-26T19:49:03.264Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
