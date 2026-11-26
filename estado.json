@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1447-c9d9",
-  "sha256": "50892fa1fbd75d0d8198c54fb12e991fdab2a4405c52a49190bda5884b6d37d7",
-  "nota": "Costeo tela 3.1 rediseñada en 4 pasos: costo, ganancia, mercado, atajos (Alex 26 nov)",
-  "fecha": "2026-11-26T20:47:51.093Z",
+  "paquete": "p-261126-1504-c7eb",
+  "sha256": "e957799ce740b6da66b977e8fb8b8fe3795729b58c8d7fba9e0f9537a27500d6",
+  "nota": "Costeo tela: carbonato en tabla de recetas 2.2 + precio del mercado arriba de la 3.1 (Alex 26 nov)",
+  "fecha": "2026-11-26T21:04:55.954Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
