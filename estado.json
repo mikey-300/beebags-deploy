@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261126-1244-c171",
-  "sha256": "f39054dd16c67cdebe994cf028cfd3747cc3250117c97b413ded2bcd69ea444c",
-  "nota": "Cotizador › Tela por kilo: siempre repinta los totales después de guardar (aunque el cursor esté en otra casilla) — solo web",
-  "fecha": "2026-11-26T18:44:06.073Z",
+  "paquete": "p-261126-1316-b937",
+  "sha256": "2e3e8039fccc0b9b6231c758e512aff6ea7787c592b70320db81f95c53da9d3d",
+  "nota": "Carbonato en la mezcla: nuevo interruptor p_cal_on (todas las recetas y pestañas; Costeo tela y Tela por kilo con su botón) + RH Excel: columna Ajuste de horas con el signo de pantalla. OK de Mikey 26 nov",
+  "fecha": "2026-11-26T19:16:37.066Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
