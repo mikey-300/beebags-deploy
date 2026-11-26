@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1349-0e9a",
-  "sha256": "ab26830ff65e5f5e44f67fd1ad721e1e814c8dcefb55db8a3fb593e580226e64",
-  "nota": "Costeo tela 3.1: Ajustar sola con costo fresco + aviso de lo más abajo del mercado sin perder (Alex 26 nov)",
-  "fecha": "2026-11-26T19:49:03.264Z",
+  "paquete": "p-261126-1447-c9d9",
+  "sha256": "50892fa1fbd75d0d8198c54fb12e991fdab2a4405c52a49190bda5884b6d37d7",
+  "nota": "Costeo tela 3.1 rediseñada en 4 pasos: costo, ganancia, mercado, atajos (Alex 26 nov)",
+  "fecha": "2026-11-26T20:47:51.093Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
