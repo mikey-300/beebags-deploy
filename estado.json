@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1734-aff9",
-  "sha256": "c0c1febb49ad406b2d38ebc7b2e9d9aed7b960b2b2b8c030adfd4c7ce3c7cd9f",
-  "nota": "Costeo tela 3.1: flete y precio entregado en la tabla (Alex 26 nov)",
-  "fecha": "2026-11-26T23:34:28.481Z",
+  "paquete": "p-261126-1757-ca11",
+  "sha256": "0577c06ef76bf91d92877f12d2e5bf1e0044a52377597a1c859403d97073ba82",
+  "nota": "Costeo tela 4.3: costo real con receta de hoy + vendido real de pedidos + margen real (Alex 26 nov)",
+  "fecha": "2026-11-26T23:57:03.693Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
