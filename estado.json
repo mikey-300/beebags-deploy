@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1730-371c",
-  "sha256": "70b04519a0081ed52cfd4b6ec1fb28d19d9f9af4653c1ef0727a69ff2f942f1e",
-  "nota": "Costeo tela 2.1: apagador de flete visible (Alex 26 nov)",
-  "fecha": "2026-11-26T23:30:37.668Z",
+  "paquete": "p-261126-1734-aff9",
+  "sha256": "c0c1febb49ad406b2d38ebc7b2e9d9aed7b960b2b2b8c030adfd4c7ce3c7cd9f",
+  "nota": "Costeo tela 3.1: flete y precio entregado en la tabla (Alex 26 nov)",
+  "fecha": "2026-11-26T23:34:28.481Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
