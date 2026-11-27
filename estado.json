@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-1523-be88",
-  "sha256": "c01ad33e694b3d7f2e94d373124fd5fae31b0ec0e0a27cbb231ed92abd6aa4ca",
-  "nota": "Cámaras: nombres reales que dio Mikey (57) + gráficas por hora sin apelotonar en la Muralla",
-  "fecha": "2026-11-27T21:23:26.790Z",
+  "paquete": "p-261127-1526-376a",
+  "sha256": "fca9e53256ac124fdb773633d9a31dd902bfe3abd8e4f4e2743e7b92c3d7e296",
+  "nota": "Cámaras: Estadísticas usa los nombres del catálogo",
+  "fecha": "2026-11-27T21:26:34.274Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
