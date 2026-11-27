@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-1146-2234",
-  "sha256": "a7cd65a6743e7978c8f5464f25a11f5eccc93fbf8c593bdc6bdde77909831ea2",
-  "nota": "RH rotación: gráficas nuevas en Indicadores (dona de motivos, riesgo por área, mes a mes, área 90 días, puestos, mapa de calor)",
-  "fecha": "2026-11-27T17:46:48.372Z",
-  "autor": "alex_",
-  "archivos": 2,
+  "paquete": "p-261127-1148-9531",
+  "sha256": "bee1286f1c30d0d93b9179ddc24de5f70a2e583df9b06ea1d8a66ae862bbc515",
+  "nota": "seguridad: lectura bbseg-verlogs3",
+  "fecha": "2026-11-27T17:48:16.674Z",
+  "autor": "MIGUEL",
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
