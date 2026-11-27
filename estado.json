@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1811-c1bc",
-  "sha256": "62a7cbe5001ce04bd0fb512919ada14b8ccfe30884efa9f8743145f7de95a069",
-  "nota": "Costeo tela: tabla rollo por metro compacta a la izquierda (Alex 26 nov)",
-  "fecha": "2026-11-27T00:11:05.932Z",
+  "paquete": "p-261126-1820-9d9b",
+  "sha256": "711a44132e8280ba1aadc0432c477744655f608555468eb19807bb16e60e80b4",
+  "nota": "Costeo tela: lista rollo 1.60 m con base = precio con entrega (Alex 26 nov)",
+  "fecha": "2026-11-27T00:20:27.249Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
