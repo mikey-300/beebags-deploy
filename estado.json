@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-0815-12a0",
-  "sha256": "7372a08d45d93eb2366b88de4b1fa18d0054d950e9e3c7e1e3662edbcba9c430",
-  "nota": "Costeo tela: reparto tela/bolsa del total del mes en la luz y gastos (Alex 27 nov)",
-  "fecha": "2026-11-27T14:15:46.763Z",
+  "paquete": "p-261127-0822-df49",
+  "sha256": "820e6e38836f61cce23ba9192642991804096f43efd14fceb50b5f7b935da8ba",
+  "nota": "Costeo tela: luz corrida un mes (pagado en feb = consumo de ene) (Alex 27 nov)",
+  "fecha": "2026-11-27T14:22:50.658Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
