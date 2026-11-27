@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261127-1619-c253",
-  "sha256": "6cb587e020fa4321ddded949d8ae7d015b73215873d10e02ed3fb6813cdfc959",
-  "nota": "Cámaras: secciones por lugar real (9 secciones)",
-  "fecha": "2026-11-27T22:19:28.603Z",
-  "autor": "alex_",
+  "paquete": "p-261127-1622-a38c",
+  "sha256": "dc0684e5f7211eec7d845d1b73831ecb370d018c867752f4bad4bdc6e7a07df9",
+  "nota": "Cotizador: quitar pestañas Cotizar tela y Tela por kilo (Alex 27 nov)",
+  "fecha": "2026-11-27T22:22:07.369Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
