@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261126-1832-6d2f",
-  "sha256": "3c94755fb23ce10be01bd1f2f4a1ee5ec31e9dffae60d1cf770df9511d0bb3db",
-  "nota": "Reportes: la lista no se queda escondida sin reporte abierto (Alex 26 nov)",
-  "fecha": "2026-11-27T00:32:17.698Z",
+  "paquete": "p-261126-1841-ec4e",
+  "sha256": "b80afafefdcc30927fa3d30a3f59f89cf7ab7623f53e35ea1974143310763cdb",
+  "nota": "Costeo tela: boton al reporte costo por kilo (año) + reportes acepta ?t=anio (Alex 26 nov)",
+  "fecha": "2026-11-27T00:41:18.547Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
