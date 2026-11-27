@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-0801-f66c",
-  "sha256": "668e21bc4286f09e344bfd10e17fa11b9cece12ee4f9729e0e1d91ea82b47306",
-  "nota": "Costeo tela bloque 1: clic en cada cifra muestra de donde sale (Alex 27 nov)",
-  "fecha": "2026-11-27T14:01:39.827Z",
+  "paquete": "p-261127-0807-a893",
+  "sha256": "659f3e1170b72bde5caca9cb3056dc7710314753bd2d1105d5b923754d312aa9",
+  "nota": "Costeo tela promedia solo meses cerrados + Cerebro apps en orden alfabetico (Alex 27 nov)",
+  "fecha": "2026-11-27T14:07:43.812Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
