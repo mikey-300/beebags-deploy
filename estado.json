@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-1526-376a",
-  "sha256": "fca9e53256ac124fdb773633d9a31dd902bfe3abd8e4f4e2743e7b92c3d7e296",
-  "nota": "Cámaras: Estadísticas usa los nombres del catálogo",
-  "fecha": "2026-11-27T21:26:34.274Z",
+  "paquete": "p-261127-1529-175e",
+  "sha256": "ff0b9e16670397ea05de67cacf95013f29644655f1f8fa1a34546e45ac1b1cc6",
+  "nota": "seguridad: lectura bbseg-infofac",
+  "fecha": "2026-11-27T21:29:09.090Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
