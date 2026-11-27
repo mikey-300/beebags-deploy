@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261126-1841-ec4e",
-  "sha256": "b80afafefdcc30927fa3d30a3f59f89cf7ab7623f53e35ea1974143310763cdb",
-  "nota": "Costeo tela: boton al reporte costo por kilo (año) + reportes acepta ?t=anio (Alex 26 nov)",
-  "fecha": "2026-11-27T00:41:18.547Z",
+  "paquete": "p-261127-0747-958d",
+  "sha256": "356903395b357b2c95d4aa6f1cd1b29cb1d0761bdf92c3c0cfe5978eceeae630",
+  "nota": "Costeo tela 3.1: desglose del costo y del precio renglon por renglon (Alex 27 nov)",
+  "fecha": "2026-11-27T13:47:12.292Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
