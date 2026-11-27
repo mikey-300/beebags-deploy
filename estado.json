@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1820-9d9b",
-  "sha256": "711a44132e8280ba1aadc0432c477744655f608555468eb19807bb16e60e80b4",
-  "nota": "Costeo tela: lista rollo 1.60 m con base = precio con entrega (Alex 26 nov)",
-  "fecha": "2026-11-27T00:20:27.249Z",
+  "paquete": "p-261126-1827-5a4d",
+  "sha256": "1a8e81c551d8da4f33049467e3777c09abf2cd98fec4a6e6525ff3dd38c0846d",
+  "nota": "Costeo tela: Desarrollo del costeo abierto por default (Alex 26 nov)",
+  "fecha": "2026-11-27T00:27:17.294Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
