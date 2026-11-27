@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-0807-a893",
-  "sha256": "659f3e1170b72bde5caca9cb3056dc7710314753bd2d1105d5b923754d312aa9",
-  "nota": "Costeo tela promedia solo meses cerrados + Cerebro apps en orden alfabetico (Alex 27 nov)",
-  "fecha": "2026-11-27T14:07:43.812Z",
+  "paquete": "p-261127-0812-cec8",
+  "sha256": "42281e6a0ccab1f4b458ac8ad5c48c86ba3c0eae3568472de68c7879ef71be22",
+  "nota": "Cerebro: apps en orden alfabetico en cerebro2.html (el que sirve /cerebro.html) (Alex 27 nov)",
+  "fecha": "2026-11-27T14:12:47.242Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
