@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1757-ca11",
-  "sha256": "0577c06ef76bf91d92877f12d2e5bf1e0044a52377597a1c859403d97073ba82",
-  "nota": "Costeo tela 4.3: costo real con receta de hoy + vendido real de pedidos + margen real (Alex 26 nov)",
-  "fecha": "2026-11-26T23:57:03.693Z",
+  "paquete": "p-261126-1806-4c08",
+  "sha256": "b947c4534fbae3ac203eeb26e227795a9f8b2b6f4ef3bc6d073eb127c5267811",
+  "nota": "Costeo tela: quitar panel PP contra pigmento (Alex 26 nov)",
+  "fecha": "2026-11-27T00:06:27.215Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
