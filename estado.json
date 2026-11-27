@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-1625-54e2",
-  "sha256": "e073b58363b08d5d3635c270aacc1ba00a8833e85fc37a5774c2de7029366104",
-  "nota": "Cerebro: icono Tesoreria = carpeta con Bancos y Compras (Alex 27 nov)",
-  "fecha": "2026-11-27T22:25:17.297Z",
+  "paquete": "p-261127-1627-280a",
+  "sha256": "5f116266767d2beeb3ae218c48e6113688591d3d107c073479335459a2af77ff",
+  "nota": "Cotizador: Costeo tela como 2a pestana (Alex 27 nov)",
+  "fecha": "2026-11-27T22:27:21.959Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
