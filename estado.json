@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1806-4c08",
-  "sha256": "b947c4534fbae3ac203eeb26e227795a9f8b2b6f4ef3bc6d073eb127c5267811",
-  "nota": "Costeo tela: quitar panel PP contra pigmento (Alex 26 nov)",
-  "fecha": "2026-11-27T00:06:27.215Z",
+  "paquete": "p-261126-1811-c1bc",
+  "sha256": "62a7cbe5001ce04bd0fb512919ada14b8ccfe30884efa9f8743145f7de95a069",
+  "nota": "Costeo tela: tabla rollo por metro compacta a la izquierda (Alex 26 nov)",
+  "fecha": "2026-11-27T00:11:05.932Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
