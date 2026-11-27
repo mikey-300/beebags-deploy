@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-1514-c06f",
-  "sha256": "2c0a8732c4df7bb6beadb7cec4163eee82819e0598f413c5581c70006ca1bbad",
-  "nota": "facturas: 2a factura de una salida cuadra contra lo que falta (S1597)",
-  "fecha": "2026-11-27T21:14:44.073Z",
+  "paquete": "p-261127-1518-8f71",
+  "sha256": "07df67137bac95c23174a86300b14f243b259b637ac5daf4a255f355c7c0f00f",
+  "nota": "seguridad: lectura bbseg-dfe0,bbseg-dfe1,bbseg-dfe2...",
+  "fecha": "2026-11-27T21:18:35.621Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
