@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-1508-75e2",
-  "sha256": "d342d0690055762fa98add7e61da66f68d14bd27473805ae8109d287ba1d9ce7",
-  "nota": "seguridad: lectura bbseg-log1597",
-  "fecha": "2026-11-27T21:08:24.819Z",
+  "paquete": "p-261127-1514-c06f",
+  "sha256": "2c0a8732c4df7bb6beadb7cec4163eee82819e0598f413c5581c70006ca1bbad",
+  "nota": "facturas: 2a factura de una salida cuadra contra lo que falta (S1597)",
+  "fecha": "2026-11-27T21:14:44.073Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
