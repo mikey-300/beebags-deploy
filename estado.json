@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261126-1827-5a4d",
-  "sha256": "1a8e81c551d8da4f33049467e3777c09abf2cd98fec4a6e6525ff3dd38c0846d",
-  "nota": "Costeo tela: Desarrollo del costeo abierto por default (Alex 26 nov)",
-  "fecha": "2026-11-27T00:27:17.294Z",
+  "paquete": "p-261126-1832-6d2f",
+  "sha256": "3c94755fb23ce10be01bd1f2f4a1ee5ec31e9dffae60d1cf770df9511d0bb3db",
+  "nota": "Reportes: la lista no se queda escondida sin reporte abierto (Alex 26 nov)",
+  "fecha": "2026-11-27T00:32:17.698Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
