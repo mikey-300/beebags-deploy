@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-1200-defe",
-  "sha256": "fa2b8cb5472753408d1cbaaed6f7cfb881cffbd849e6dd07424e3d4bba1ef9c5",
-  "nota": "seguridad: lectura bbseg-versnap4",
-  "fecha": "2026-11-27T18:00:55.194Z",
+  "paquete": "p-261127-1412-83e9",
+  "sha256": "e349d5459839058f69127162b41c6f234b5296e4d7780bc7f1c74f9c2e756f57",
+  "nota": "Muralla: las camaras con video continuo van todas en vivo en la rejilla (sin tope de 3 por grabador)",
+  "fecha": "2026-11-27T20:12:57.397Z",
   "autor": "MIGUEL",
   "archivos": 1,
   "reinicio": false,
