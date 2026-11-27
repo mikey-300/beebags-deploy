@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-1557-4045",
-  "sha256": "88accdae8160f8f13c7e59185a180b2b5d34638416076966695690488f3588cc",
-  "nota": "seguridad: lectura bbseg-infopy",
-  "fecha": "2026-11-27T21:57:43.757Z",
+  "paquete": "p-261127-1603-53be",
+  "sha256": "07689d5bfd2ec5a071c9be23fda6509cab0d89fb6b389a4046e9203994675d46",
+  "nota": "facturas: no cuadra solo con autorizacion de gerencia + sin auto-palomeo por cliente + vigilante diario S1597",
+  "fecha": "2026-11-27T22:03:20.822Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
