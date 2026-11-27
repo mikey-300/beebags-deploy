@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261127-1058-21a2",
-  "sha256": "ae2d8417992306950d419b850c0724da0faf06f0ecb7dcc944fd9b2a1a341738",
-  "nota": "Camaras: 3 camaras IP que no estaban dadas de alta (patio .4, reciclado molino .5, PTZ Oficinas .9) al catalogo CAMARAS",
-  "fecha": "2026-11-27T16:58:36.025Z",
+  "paquete": "p-261127-1059-f95c",
+  "sha256": "8ac5687ebbf337a013b357e777e9fef0da95b437ab471239e9e1e62b533abe74",
+  "nota": "seguridad: lectura bbseg-cred-ip3",
+  "fecha": "2026-11-27T16:59:18.652Z",
   "autor": "MIGUEL",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
