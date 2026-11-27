@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261127-0747-958d",
-  "sha256": "356903395b357b2c95d4aa6f1cd1b29cb1d0761bdf92c3c0cfe5978eceeae630",
-  "nota": "Costeo tela 3.1: desglose del costo y del precio renglon por renglon (Alex 27 nov)",
-  "fecha": "2026-11-27T13:47:12.292Z",
+  "paquete": "p-261127-0801-f66c",
+  "sha256": "668e21bc4286f09e344bfd10e17fa11b9cece12ee4f9729e0e1d91ea82b47306",
+  "nota": "Costeo tela bloque 1: clic en cada cifra muestra de donde sale (Alex 27 nov)",
+  "fecha": "2026-11-27T14:01:39.827Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
